@@ -784,7 +784,7 @@
 /* #undef JP2_DELEGATE */
 
 /* Define if you have JPEG library */
-/* #undef JPEG_DELEGATE */
+#define JPEG_DELEGATE 1
 
 /* Define if you have LCMS (v1.11 or later) library */
 /* #undef LCMS_DELEGATE */

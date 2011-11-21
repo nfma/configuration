@@ -718,8 +718,8 @@ coders_jpeg_la_LINK = $(LIBTOOL) $(AM_V_lt) --tag=CC \
 	$(AM_LIBTOOLFLAGS) $(LIBTOOLFLAGS) --mode=link $(CCLD) \
 	$(AM_CFLAGS) $(CFLAGS) $(coders_jpeg_la_LDFLAGS) $(LDFLAGS) -o \
 	$@
-##am_coders_jpeg_la_rpath =  \
-##	-rpath $(codersdir)
+#am_coders_jpeg_la_rpath =  \
+#	-rpath $(codersdir)
 coders_label_la_DEPENDENCIES = $(MAGICKCORE_LIBS)
 am_coders_label_la_OBJECTS = coders/coders_label_la-label.lo
 coders_label_la_OBJECTS = $(am_coders_label_la_OBJECTS)
@@ -1563,8 +1563,8 @@ am__objects_2 = magick/magick_libMagickCore_la-accelerate.lo \
 #	coders/magick_libMagickCore_la-emf.lo
 #am__objects_9 =  \
 #	coders/magick_libMagickCore_la-jbig.lo
-#am__objects_10 =  \
-#	coders/magick_libMagickCore_la-jpeg.lo
+am__objects_10 =  \
+	coders/magick_libMagickCore_la-jpeg.lo
 #am__objects_11 =  \
 #	coders/magick_libMagickCore_la-jp2.lo
 am__objects_12 =  \
@@ -2298,7 +2298,7 @@ CatDelegate = cat
 ConvertDelegate = convert
 DATA_DIR = /usr/local/share
 DEFS = -DHAVE_CONFIG_H
-DELEGATES = bzlib fontconfig freetype png x11 xml zlib
+DELEGATES = bzlib fontconfig freetype jpeg jng png x11 xml zlib
 DEPDIR = .deps
 DIRSEP = :
 DISTCHECK_CONFIG_FLAGS = --disable-deprecated --with-quantum-depth=16 --with-umem=no --with-autotrace=no --with-gslib=no --with-fontpath= --with-perl=no
@@ -2368,7 +2368,7 @@ INT64_T = signed long
 INT8_T = signed char
 JBIG_LIBS = 
 JP2_LIBS = 
-JPEG_LIBS = 
+JPEG_LIBS = -ljpeg
 LCMS_LIBS = 
 LD = /usr/llvm-gcc-4.2/libexec/gcc/i686-apple-darwin11/4.2.1/ld
 LDFLAGS = -L/usr/X11/lib -R/usr/X11/lib -L/usr/X11/lib
@@ -2416,7 +2416,7 @@ MAGICK_CONFIGURE_BUILD_PATH = /Users/nfma/Apps/ImageMagick-6.7.3-7/config
 MAGICK_CONFIGURE_SRC_PATH = /Users/nfma/Apps/ImageMagick-6.7.3-7/config
 MAGICK_CPPFLAGS = -I/usr/local/include/ImageMagick
 MAGICK_CXXFLAGS = -g -O2 -D_THREAD_SAFE -pthread
-MAGICK_DEP_LIBS = -lfreetype -lpng15 -L/usr/X11/lib -lfontconfig -lXext -lXt -lSM -lICE -lX11 -lbz2 -lxml2 -lz -lm -lgomp -lpthread
+MAGICK_DEP_LIBS = -lfreetype -ljpeg -lpng15 -L/usr/X11/lib -lfontconfig -lXext -lXt -lSM -lICE -lX11 -lbz2 -lxml2 -lz -lm -lgomp -lpthread
 MAGICK_FEATURES = OpenMP 
 MAGICK_FILTER_MODULE_PATH = /Users/nfma/Apps/ImageMagick-6.7.3-7/filters
 MAGICK_HDRI = 
@@ -2427,7 +2427,7 @@ MAGICK_LIBRARY_CURRENT = 5
 MAGICK_LIBRARY_CURRENT_MIN = 5
 MAGICK_LIBRARY_REVISION = 0
 MAGICK_LIBRARY_VERSION_INFO = 5:0:0
-MAGICK_LIBS = -lMagickCore -lfreetype -lpng15 -L/usr/X11/lib -lfontconfig -lXext -lXt -lSM -lICE -lX11 -lbz2 -lxml2 -lz -lm -lgomp -lpthread -lltdl
+MAGICK_LIBS = -lMagickCore -lfreetype -ljpeg -lpng15 -L/usr/X11/lib -lfontconfig -lXext -lXt -lSM -lICE -lX11 -lbz2 -lxml2 -lz -lm -lgomp -lpthread -lltdl
 MAGICK_LIB_VERSION = 0x050000
 MAGICK_LIB_VERSION_NUMBER = 5,0,0
 MAGICK_LIB_VERSION_TEXT = 6.7.3
@@ -2866,8 +2866,8 @@ codersdir = $(CODER_PATH)
 #MAGICK_FPX_SRCS = coders/fpx.c
 #MAGICK_JBIG_MODULES = coders/jbig.la
 #MAGICK_JBIG_SRCS = coders/jbig.c
-#MAGICK_JPEG_MODULES = coders/jpeg.la
-#MAGICK_JPEG_SRCS = coders/jpeg.c
+MAGICK_JPEG_MODULES = coders/jpeg.la
+MAGICK_JPEG_SRCS = coders/jpeg.c
 #MAGICK_JP2_MODULES = coders/jp2.la
 #MAGICK_JP2_SRCS = coders/jp2.c
 MAGICK_PNG_MODULES = coders/png.la

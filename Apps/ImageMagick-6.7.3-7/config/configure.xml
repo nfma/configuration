@@ -29,7 +29,7 @@
   <configure name="PCFLAGS" value="-fopenmp"/>
   <configure name="DEFS" value="-DHAVE_CONFIG_H"/>
   <configure name="LDFLAGS" value="-L/usr/local/lib -L/usr/X11/lib -R/usr/X11/lib -L/usr/X11/lib"/>
-  <configure name="LIBS" value="-lMagickCore -lfreetype -lpng15 -L/usr/X11/lib -lfontconfig -lXext -lXt -lSM -lICE -lX11 -lbz2 -lxml2 -lz -lm -lgomp -lpthread -lltdl"/>
+  <configure name="LIBS" value="-lMagickCore -lfreetype -ljpeg -lpng15 -L/usr/X11/lib -lfontconfig -lXext -lXt -lSM -lICE -lX11 -lbz2 -lxml2 -lz -lm -lgomp -lpthread -lltdl"/>
   <configure name="CXX" value="g++"/>
   <configure name="CXXFLAGS" value="-g -O2 -D_THREAD_SAFE -pthread"/>
   <configure name="DISTCHECK_CONFIG_FLAGS" value="--disable-deprecated --with-quantum-depth=16 --with-umem=no --with-autotrace=no --with-gslib=no --with-fontpath= --with-perl=no"/>
@@ -38,7 +38,7 @@
   <configure name="TARGET_OS" value="darwin11.2.0"/>
   <configure name="HOST" value="x86_64-apple-darwin11.2.0"/>
   <configure name="FEATURES" value="OpenMP "/>
-  <configure name="DELEGATES" value="bzlib fontconfig freetype png x11 xml zlib"/>
+  <configure name="DELEGATES" value="bzlib fontconfig freetype jpeg jng png x11 xml zlib"/>
   <configure name="COPYRIGHT" value="Copyright (C) 1999-2011 ImageMagick Studio LLC"/>
   <configure name="WEBSITE" value="http://www.imagemagick.org"/>
   <configure name="QuantumDepth" value="16"/>

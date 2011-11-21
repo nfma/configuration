@@ -17,7 +17,7 @@ old_library='libMagickCore.a'
 inherited_linker_flags='  -pthread'
 
 # Libraries that this one depends upon.
-dependency_libs=' -R/usr/X11/lib  -L/usr/X11/lib -lfreetype -lpng15 -lfontconfig -lXext -lXt -lSM -lICE -lX11 -lbz2 -lxml2 -lz -lm -lgomp -lpthread -lltdl'
+dependency_libs=' -R/usr/X11/lib  -L/usr/X11/lib -lfreetype /usr/local/lib/libjpeg.la -lpng15 -lfontconfig -lXext -lXt -lSM -lICE -lX11 -lbz2 -lxml2 -lz -lm -lgomp -lpthread -lltdl'
 
 # Names of additional weak libraries provided by this library
 weak_library_names=''

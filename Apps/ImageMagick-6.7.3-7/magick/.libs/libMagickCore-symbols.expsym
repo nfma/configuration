@@ -935,6 +935,7 @@ _RegisterICONImage
 _RegisterINFOImage
 _RegisterINLINEImage
 _RegisterIPLImage
+_RegisterJPEGImage
 _RegisterLABELImage
 _RegisterMACImage
 _RegisterMAGICKImage
@@ -1282,6 +1283,7 @@ _UnregisterICONImage
 _UnregisterINFOImage
 _UnregisterINLINEImage
 _UnregisterIPLImage
+_UnregisterJPEGImage
 _UnregisterLABELImage
 _UnregisterMACImage
 _UnregisterMAGICKImage
