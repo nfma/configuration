@@ -1,3 +1,0 @@
-freebsd_cam.lo freebsd_cam.o: FreeBSD/freebsd_cam.c ../../config.h
-
-../../config.h:

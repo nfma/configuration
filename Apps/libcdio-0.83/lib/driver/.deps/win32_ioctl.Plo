@@ -1,3 +1,0 @@
-win32_ioctl.lo win32_ioctl.o: MSWindows/win32_ioctl.c ../../config.h
-
-../../config.h:
