@@ -1,0 +1,635 @@
+ArgParser.o: ArgParser.cc nping.h ../nbase/nbase.h ../nbase/getopt.h \
+  ../nbase/nbase_ipv6.h ../libnetutil/netutil.h \
+  ../libdnet-stripped/include/dnet.h \
+  ../libdnet-stripped/include/dnet/os.h \
+  ../libdnet-stripped/include/dnet/eth.h \
+  ../libdnet-stripped/include/dnet/ip.h \
+  ../libdnet-stripped/include/dnet/ip6.h \
+  ../libdnet-stripped/include/dnet/addr.h \
+  ../libdnet-stripped/include/dnet/arp.h \
+  ../libdnet-stripped/include/dnet/icmp.h \
+  ../libdnet-stripped/include/dnet/tcp.h \
+  ../libdnet-stripped/include/dnet/udp.h \
+  ../libdnet-stripped/include/dnet/sctp.h \
+  ../libdnet-stripped/include/dnet/intf.h \
+  ../libdnet-stripped/include/dnet/route.h \
+  ../libdnet-stripped/include/dnet/fw.h \
+  ../libdnet-stripped/include/dnet/tun.h \
+  ../libdnet-stripped/include/dnet/blob.h \
+  ../libdnet-stripped/include/dnet/rand.h ArgParser.h NpingOps.h \
+  global_structures.h ../nsock/include/nsock.h \
+  ../nsock/include/nsock_config.h stats.h nping_config.h NpingTargets.h \
+  common_modified.h common.h NpingTarget.h utils.h utils_net.h output.h \
+  ICMPv4Header.h NetworkLayerElement.h PacketElement.h ARPHeader.h
+NetworkLayerElement.o: NetworkLayerElement.cc NetworkLayerElement.h \
+  PacketElement.h nping.h ../nbase/nbase.h ../nbase/getopt.h \
+  ../nbase/nbase_ipv6.h ../libnetutil/netutil.h \
+  ../libdnet-stripped/include/dnet.h \
+  ../libdnet-stripped/include/dnet/os.h \
+  ../libdnet-stripped/include/dnet/eth.h \
+  ../libdnet-stripped/include/dnet/ip.h \
+  ../libdnet-stripped/include/dnet/ip6.h \
+  ../libdnet-stripped/include/dnet/addr.h \
+  ../libdnet-stripped/include/dnet/arp.h \
+  ../libdnet-stripped/include/dnet/icmp.h \
+  ../libdnet-stripped/include/dnet/tcp.h \
+  ../libdnet-stripped/include/dnet/udp.h \
+  ../libdnet-stripped/include/dnet/sctp.h \
+  ../libdnet-stripped/include/dnet/intf.h \
+  ../libdnet-stripped/include/dnet/route.h \
+  ../libdnet-stripped/include/dnet/fw.h \
+  ../libdnet-stripped/include/dnet/tun.h \
+  ../libdnet-stripped/include/dnet/blob.h \
+  ../libdnet-stripped/include/dnet/rand.h output.h
+PacketElement.o: PacketElement.cc PacketElement.h nping.h \
+  ../nbase/nbase.h ../nbase/getopt.h ../nbase/nbase_ipv6.h \
+  ../libnetutil/netutil.h ../libdnet-stripped/include/dnet.h \
+  ../libdnet-stripped/include/dnet/os.h \
+  ../libdnet-stripped/include/dnet/eth.h \
+  ../libdnet-stripped/include/dnet/ip.h \
+  ../libdnet-stripped/include/dnet/ip6.h \
+  ../libdnet-stripped/include/dnet/addr.h \
+  ../libdnet-stripped/include/dnet/arp.h \
+  ../libdnet-stripped/include/dnet/icmp.h \
+  ../libdnet-stripped/include/dnet/tcp.h \
+  ../libdnet-stripped/include/dnet/udp.h \
+  ../libdnet-stripped/include/dnet/sctp.h \
+  ../libdnet-stripped/include/dnet/intf.h \
+  ../libdnet-stripped/include/dnet/route.h \
+  ../libdnet-stripped/include/dnet/fw.h \
+  ../libdnet-stripped/include/dnet/tun.h \
+  ../libdnet-stripped/include/dnet/blob.h \
+  ../libdnet-stripped/include/dnet/rand.h output.h
+common.o: common.cc nping.h ../nbase/nbase.h ../nbase/getopt.h \
+  ../nbase/nbase_ipv6.h ../libnetutil/netutil.h \
+  ../libdnet-stripped/include/dnet.h \
+  ../libdnet-stripped/include/dnet/os.h \
+  ../libdnet-stripped/include/dnet/eth.h \
+  ../libdnet-stripped/include/dnet/ip.h \
+  ../libdnet-stripped/include/dnet/ip6.h \
+  ../libdnet-stripped/include/dnet/addr.h \
+  ../libdnet-stripped/include/dnet/arp.h \
+  ../libdnet-stripped/include/dnet/icmp.h \
+  ../libdnet-stripped/include/dnet/tcp.h \
+  ../libdnet-stripped/include/dnet/udp.h \
+  ../libdnet-stripped/include/dnet/sctp.h \
+  ../libdnet-stripped/include/dnet/intf.h \
+  ../libdnet-stripped/include/dnet/route.h \
+  ../libdnet-stripped/include/dnet/fw.h \
+  ../libdnet-stripped/include/dnet/tun.h \
+  ../libdnet-stripped/include/dnet/blob.h \
+  ../libdnet-stripped/include/dnet/rand.h common.h
+common_modified.o: common_modified.cc nping.h ../nbase/nbase.h \
+  ../nbase/getopt.h ../nbase/nbase_ipv6.h ../libnetutil/netutil.h \
+  ../libdnet-stripped/include/dnet.h \
+  ../libdnet-stripped/include/dnet/os.h \
+  ../libdnet-stripped/include/dnet/eth.h \
+  ../libdnet-stripped/include/dnet/ip.h \
+  ../libdnet-stripped/include/dnet/ip6.h \
+  ../libdnet-stripped/include/dnet/addr.h \
+  ../libdnet-stripped/include/dnet/arp.h \
+  ../libdnet-stripped/include/dnet/icmp.h \
+  ../libdnet-stripped/include/dnet/tcp.h \
+  ../libdnet-stripped/include/dnet/udp.h \
+  ../libdnet-stripped/include/dnet/sctp.h \
+  ../libdnet-stripped/include/dnet/intf.h \
+  ../libdnet-stripped/include/dnet/route.h \
+  ../libdnet-stripped/include/dnet/fw.h \
+  ../libdnet-stripped/include/dnet/tun.h \
+  ../libdnet-stripped/include/dnet/blob.h \
+  ../libdnet-stripped/include/dnet/rand.h common.h common_modified.h \
+  output.h
+nping.o: nping.cc nping.h ../nbase/nbase.h ../nbase/getopt.h \
+  ../nbase/nbase_ipv6.h ../libnetutil/netutil.h \
+  ../libdnet-stripped/include/dnet.h \
+  ../libdnet-stripped/include/dnet/os.h \
+  ../libdnet-stripped/include/dnet/eth.h \
+  ../libdnet-stripped/include/dnet/ip.h \
+  ../libdnet-stripped/include/dnet/ip6.h \
+  ../libdnet-stripped/include/dnet/addr.h \
+  ../libdnet-stripped/include/dnet/arp.h \
+  ../libdnet-stripped/include/dnet/icmp.h \
+  ../libdnet-stripped/include/dnet/tcp.h \
+  ../libdnet-stripped/include/dnet/udp.h \
+  ../libdnet-stripped/include/dnet/sctp.h \
+  ../libdnet-stripped/include/dnet/intf.h \
+  ../libdnet-stripped/include/dnet/route.h \
+  ../libdnet-stripped/include/dnet/fw.h \
+  ../libdnet-stripped/include/dnet/tun.h \
+  ../libdnet-stripped/include/dnet/blob.h \
+  ../libdnet-stripped/include/dnet/rand.h output.h NpingOps.h \
+  global_structures.h ../nsock/include/nsock.h \
+  ../nsock/include/nsock_config.h stats.h nping_config.h NpingTargets.h \
+  common_modified.h common.h NpingTarget.h utils.h utils_net.h \
+  ArgParser.h EchoHeader.h ApplicationLayerElement.h PacketElement.h \
+  RawData.h EchoClient.h NEPContext.h ProbeMode.h IPv4Header.h \
+  NetworkLayerElement.h IPv6Header.h TCPHeader.h TransportLayerElement.h \
+  UDPHeader.h ICMPv4Header.h EthernetHeader.h DataLinkLayerElement.h \
+  ARPHeader.h EchoServer.h ../libdnet-stripped/include/dnet.h
+RawData.o: RawData.cc RawData.h ApplicationLayerElement.h PacketElement.h \
+  nping.h ../nbase/nbase.h ../nbase/getopt.h ../nbase/nbase_ipv6.h \
+  ../libnetutil/netutil.h ../libdnet-stripped/include/dnet.h \
+  ../libdnet-stripped/include/dnet/os.h \
+  ../libdnet-stripped/include/dnet/eth.h \
+  ../libdnet-stripped/include/dnet/ip.h \
+  ../libdnet-stripped/include/dnet/ip6.h \
+  ../libdnet-stripped/include/dnet/addr.h \
+  ../libdnet-stripped/include/dnet/arp.h \
+  ../libdnet-stripped/include/dnet/icmp.h \
+  ../libdnet-stripped/include/dnet/tcp.h \
+  ../libdnet-stripped/include/dnet/udp.h \
+  ../libdnet-stripped/include/dnet/sctp.h \
+  ../libdnet-stripped/include/dnet/intf.h \
+  ../libdnet-stripped/include/dnet/route.h \
+  ../libdnet-stripped/include/dnet/fw.h \
+  ../libdnet-stripped/include/dnet/tun.h \
+  ../libdnet-stripped/include/dnet/blob.h \
+  ../libdnet-stripped/include/dnet/rand.h output.h
+UDPHeader.o: UDPHeader.cc UDPHeader.h TransportLayerElement.h \
+  PacketElement.h nping.h ../nbase/nbase.h ../nbase/getopt.h \
+  ../nbase/nbase_ipv6.h ../libnetutil/netutil.h \
+  ../libdnet-stripped/include/dnet.h \
+  ../libdnet-stripped/include/dnet/os.h \
+  ../libdnet-stripped/include/dnet/eth.h \
+  ../libdnet-stripped/include/dnet/ip.h \
+  ../libdnet-stripped/include/dnet/ip6.h \
+  ../libdnet-stripped/include/dnet/addr.h \
+  ../libdnet-stripped/include/dnet/arp.h \
+  ../libdnet-stripped/include/dnet/icmp.h \
+  ../libdnet-stripped/include/dnet/tcp.h \
+  ../libdnet-stripped/include/dnet/udp.h \
+  ../libdnet-stripped/include/dnet/sctp.h \
+  ../libdnet-stripped/include/dnet/intf.h \
+  ../libdnet-stripped/include/dnet/route.h \
+  ../libdnet-stripped/include/dnet/fw.h \
+  ../libdnet-stripped/include/dnet/tun.h \
+  ../libdnet-stripped/include/dnet/blob.h \
+  ../libdnet-stripped/include/dnet/rand.h output.h common.h
+NpingOps.o: NpingOps.cc nping.h ../nbase/nbase.h ../nbase/getopt.h \
+  ../nbase/nbase_ipv6.h ../libnetutil/netutil.h \
+  ../libdnet-stripped/include/dnet.h \
+  ../libdnet-stripped/include/dnet/os.h \
+  ../libdnet-stripped/include/dnet/eth.h \
+  ../libdnet-stripped/include/dnet/ip.h \
+  ../libdnet-stripped/include/dnet/ip6.h \
+  ../libdnet-stripped/include/dnet/addr.h \
+  ../libdnet-stripped/include/dnet/arp.h \
+  ../libdnet-stripped/include/dnet/icmp.h \
+  ../libdnet-stripped/include/dnet/tcp.h \
+  ../libdnet-stripped/include/dnet/udp.h \
+  ../libdnet-stripped/include/dnet/sctp.h \
+  ../libdnet-stripped/include/dnet/intf.h \
+  ../libdnet-stripped/include/dnet/route.h \
+  ../libdnet-stripped/include/dnet/fw.h \
+  ../libdnet-stripped/include/dnet/tun.h \
+  ../libdnet-stripped/include/dnet/blob.h \
+  ../libdnet-stripped/include/dnet/rand.h NpingOps.h global_structures.h \
+  ../nsock/include/nsock.h ../nsock/include/nsock_config.h stats.h \
+  nping_config.h NpingTargets.h common_modified.h common.h NpingTarget.h \
+  utils.h utils_net.h ArgParser.h output.h TCPHeader.h \
+  TransportLayerElement.h PacketElement.h
+TCPHeader.o: TCPHeader.cc TCPHeader.h TransportLayerElement.h \
+  PacketElement.h nping.h ../nbase/nbase.h ../nbase/getopt.h \
+  ../nbase/nbase_ipv6.h ../libnetutil/netutil.h \
+  ../libdnet-stripped/include/dnet.h \
+  ../libdnet-stripped/include/dnet/os.h \
+  ../libdnet-stripped/include/dnet/eth.h \
+  ../libdnet-stripped/include/dnet/ip.h \
+  ../libdnet-stripped/include/dnet/ip6.h \
+  ../libdnet-stripped/include/dnet/addr.h \
+  ../libdnet-stripped/include/dnet/arp.h \
+  ../libdnet-stripped/include/dnet/icmp.h \
+  ../libdnet-stripped/include/dnet/tcp.h \
+  ../libdnet-stripped/include/dnet/udp.h \
+  ../libdnet-stripped/include/dnet/sctp.h \
+  ../libdnet-stripped/include/dnet/intf.h \
+  ../libdnet-stripped/include/dnet/route.h \
+  ../libdnet-stripped/include/dnet/fw.h \
+  ../libdnet-stripped/include/dnet/tun.h \
+  ../libdnet-stripped/include/dnet/blob.h \
+  ../libdnet-stripped/include/dnet/rand.h output.h common.h
+utils.o: utils.cc nping.h ../nbase/nbase.h ../nbase/getopt.h \
+  ../nbase/nbase_ipv6.h ../libnetutil/netutil.h \
+  ../libdnet-stripped/include/dnet.h \
+  ../libdnet-stripped/include/dnet/os.h \
+  ../libdnet-stripped/include/dnet/eth.h \
+  ../libdnet-stripped/include/dnet/ip.h \
+  ../libdnet-stripped/include/dnet/ip6.h \
+  ../libdnet-stripped/include/dnet/addr.h \
+  ../libdnet-stripped/include/dnet/arp.h \
+  ../libdnet-stripped/include/dnet/icmp.h \
+  ../libdnet-stripped/include/dnet/tcp.h \
+  ../libdnet-stripped/include/dnet/udp.h \
+  ../libdnet-stripped/include/dnet/sctp.h \
+  ../libdnet-stripped/include/dnet/intf.h \
+  ../libdnet-stripped/include/dnet/route.h \
+  ../libdnet-stripped/include/dnet/fw.h \
+  ../libdnet-stripped/include/dnet/tun.h \
+  ../libdnet-stripped/include/dnet/blob.h \
+  ../libdnet-stripped/include/dnet/rand.h utils.h common.h \
+  global_structures.h ../nsock/include/nsock.h \
+  ../nsock/include/nsock_config.h NpingOps.h stats.h nping_config.h \
+  NpingTargets.h common_modified.h NpingTarget.h output.h \
+  ../libdnet-stripped/include/dnet.h
+utils_net.o: utils_net.cc nping.h ../nbase/nbase.h ../nbase/getopt.h \
+  ../nbase/nbase_ipv6.h ../libnetutil/netutil.h \
+  ../libdnet-stripped/include/dnet.h \
+  ../libdnet-stripped/include/dnet/os.h \
+  ../libdnet-stripped/include/dnet/eth.h \
+  ../libdnet-stripped/include/dnet/ip.h \
+  ../libdnet-stripped/include/dnet/ip6.h \
+  ../libdnet-stripped/include/dnet/addr.h \
+  ../libdnet-stripped/include/dnet/arp.h \
+  ../libdnet-stripped/include/dnet/icmp.h \
+  ../libdnet-stripped/include/dnet/tcp.h \
+  ../libdnet-stripped/include/dnet/udp.h \
+  ../libdnet-stripped/include/dnet/sctp.h \
+  ../libdnet-stripped/include/dnet/intf.h \
+  ../libdnet-stripped/include/dnet/route.h \
+  ../libdnet-stripped/include/dnet/fw.h \
+  ../libdnet-stripped/include/dnet/tun.h \
+  ../libdnet-stripped/include/dnet/blob.h \
+  ../libdnet-stripped/include/dnet/rand.h utils.h common.h \
+  global_structures.h ../nsock/include/nsock.h \
+  ../nsock/include/nsock_config.h utils_net.h NpingTarget.h NpingOps.h \
+  stats.h nping_config.h NpingTargets.h common_modified.h output.h \
+  ../libdnet-stripped/include/dnet.h
+IPv4Header.o: IPv4Header.cc IPv4Header.h NetworkLayerElement.h \
+  PacketElement.h nping.h ../nbase/nbase.h ../nbase/getopt.h \
+  ../nbase/nbase_ipv6.h ../libnetutil/netutil.h \
+  ../libdnet-stripped/include/dnet.h \
+  ../libdnet-stripped/include/dnet/os.h \
+  ../libdnet-stripped/include/dnet/eth.h \
+  ../libdnet-stripped/include/dnet/ip.h \
+  ../libdnet-stripped/include/dnet/ip6.h \
+  ../libdnet-stripped/include/dnet/addr.h \
+  ../libdnet-stripped/include/dnet/arp.h \
+  ../libdnet-stripped/include/dnet/icmp.h \
+  ../libdnet-stripped/include/dnet/tcp.h \
+  ../libdnet-stripped/include/dnet/udp.h \
+  ../libdnet-stripped/include/dnet/sctp.h \
+  ../libdnet-stripped/include/dnet/intf.h \
+  ../libdnet-stripped/include/dnet/route.h \
+  ../libdnet-stripped/include/dnet/fw.h \
+  ../libdnet-stripped/include/dnet/tun.h \
+  ../libdnet-stripped/include/dnet/blob.h \
+  ../libdnet-stripped/include/dnet/rand.h output.h common.h \
+  common_modified.h ../libdnet-stripped/include/dnet.h utils_net.h \
+  NpingTarget.h
+IPv6Header.o: IPv6Header.cc IPv6Header.h NetworkLayerElement.h \
+  PacketElement.h nping.h ../nbase/nbase.h ../nbase/getopt.h \
+  ../nbase/nbase_ipv6.h ../libnetutil/netutil.h \
+  ../libdnet-stripped/include/dnet.h \
+  ../libdnet-stripped/include/dnet/os.h \
+  ../libdnet-stripped/include/dnet/eth.h \
+  ../libdnet-stripped/include/dnet/ip.h \
+  ../libdnet-stripped/include/dnet/ip6.h \
+  ../libdnet-stripped/include/dnet/addr.h \
+  ../libdnet-stripped/include/dnet/arp.h \
+  ../libdnet-stripped/include/dnet/icmp.h \
+  ../libdnet-stripped/include/dnet/tcp.h \
+  ../libdnet-stripped/include/dnet/udp.h \
+  ../libdnet-stripped/include/dnet/sctp.h \
+  ../libdnet-stripped/include/dnet/intf.h \
+  ../libdnet-stripped/include/dnet/route.h \
+  ../libdnet-stripped/include/dnet/fw.h \
+  ../libdnet-stripped/include/dnet/tun.h \
+  ../libdnet-stripped/include/dnet/blob.h \
+  ../libdnet-stripped/include/dnet/rand.h output.h common.h \
+  ../libdnet-stripped/include/dnet.h utils.h global_structures.h \
+  ../nsock/include/nsock.h ../nsock/include/nsock_config.h
+ICMPv4Header.o: ICMPv4Header.cc nping.h ../nbase/nbase.h \
+  ../nbase/getopt.h ../nbase/nbase_ipv6.h ../libnetutil/netutil.h \
+  ../libdnet-stripped/include/dnet.h \
+  ../libdnet-stripped/include/dnet/os.h \
+  ../libdnet-stripped/include/dnet/eth.h \
+  ../libdnet-stripped/include/dnet/ip.h \
+  ../libdnet-stripped/include/dnet/ip6.h \
+  ../libdnet-stripped/include/dnet/addr.h \
+  ../libdnet-stripped/include/dnet/arp.h \
+  ../libdnet-stripped/include/dnet/icmp.h \
+  ../libdnet-stripped/include/dnet/tcp.h \
+  ../libdnet-stripped/include/dnet/udp.h \
+  ../libdnet-stripped/include/dnet/sctp.h \
+  ../libdnet-stripped/include/dnet/intf.h \
+  ../libdnet-stripped/include/dnet/route.h \
+  ../libdnet-stripped/include/dnet/fw.h \
+  ../libdnet-stripped/include/dnet/tun.h \
+  ../libdnet-stripped/include/dnet/blob.h \
+  ../libdnet-stripped/include/dnet/rand.h common.h \
+  ../libdnet-stripped/include/dnet.h utils_net.h NpingTarget.h \
+  ICMPv4Header.h NetworkLayerElement.h PacketElement.h output.h
+output.o: output.cc NpingOps.h nping.h ../nbase/nbase.h ../nbase/getopt.h \
+  ../nbase/nbase_ipv6.h ../libnetutil/netutil.h \
+  ../libdnet-stripped/include/dnet.h \
+  ../libdnet-stripped/include/dnet/os.h \
+  ../libdnet-stripped/include/dnet/eth.h \
+  ../libdnet-stripped/include/dnet/ip.h \
+  ../libdnet-stripped/include/dnet/ip6.h \
+  ../libdnet-stripped/include/dnet/addr.h \
+  ../libdnet-stripped/include/dnet/arp.h \
+  ../libdnet-stripped/include/dnet/icmp.h \
+  ../libdnet-stripped/include/dnet/tcp.h \
+  ../libdnet-stripped/include/dnet/udp.h \
+  ../libdnet-stripped/include/dnet/sctp.h \
+  ../libdnet-stripped/include/dnet/intf.h \
+  ../libdnet-stripped/include/dnet/route.h \
+  ../libdnet-stripped/include/dnet/fw.h \
+  ../libdnet-stripped/include/dnet/tun.h \
+  ../libdnet-stripped/include/dnet/blob.h \
+  ../libdnet-stripped/include/dnet/rand.h global_structures.h \
+  ../nsock/include/nsock.h ../nsock/include/nsock_config.h stats.h \
+  nping_config.h NpingTargets.h common_modified.h common.h NpingTarget.h \
+  output.h
+TransportLayerElement.o: TransportLayerElement.cc TransportLayerElement.h \
+  PacketElement.h nping.h ../nbase/nbase.h ../nbase/getopt.h \
+  ../nbase/nbase_ipv6.h ../libnetutil/netutil.h \
+  ../libdnet-stripped/include/dnet.h \
+  ../libdnet-stripped/include/dnet/os.h \
+  ../libdnet-stripped/include/dnet/eth.h \
+  ../libdnet-stripped/include/dnet/ip.h \
+  ../libdnet-stripped/include/dnet/ip6.h \
+  ../libdnet-stripped/include/dnet/addr.h \
+  ../libdnet-stripped/include/dnet/arp.h \
+  ../libdnet-stripped/include/dnet/icmp.h \
+  ../libdnet-stripped/include/dnet/tcp.h \
+  ../libdnet-stripped/include/dnet/udp.h \
+  ../libdnet-stripped/include/dnet/sctp.h \
+  ../libdnet-stripped/include/dnet/intf.h \
+  ../libdnet-stripped/include/dnet/route.h \
+  ../libdnet-stripped/include/dnet/fw.h \
+  ../libdnet-stripped/include/dnet/tun.h \
+  ../libdnet-stripped/include/dnet/blob.h \
+  ../libdnet-stripped/include/dnet/rand.h output.h
+stats.o: stats.cc nping.h ../nbase/nbase.h ../nbase/getopt.h \
+  ../nbase/nbase_ipv6.h ../libnetutil/netutil.h \
+  ../libdnet-stripped/include/dnet.h \
+  ../libdnet-stripped/include/dnet/os.h \
+  ../libdnet-stripped/include/dnet/eth.h \
+  ../libdnet-stripped/include/dnet/ip.h \
+  ../libdnet-stripped/include/dnet/ip6.h \
+  ../libdnet-stripped/include/dnet/addr.h \
+  ../libdnet-stripped/include/dnet/arp.h \
+  ../libdnet-stripped/include/dnet/icmp.h \
+  ../libdnet-stripped/include/dnet/tcp.h \
+  ../libdnet-stripped/include/dnet/udp.h \
+  ../libdnet-stripped/include/dnet/sctp.h \
+  ../libdnet-stripped/include/dnet/intf.h \
+  ../libdnet-stripped/include/dnet/route.h \
+  ../libdnet-stripped/include/dnet/fw.h \
+  ../libdnet-stripped/include/dnet/tun.h \
+  ../libdnet-stripped/include/dnet/blob.h \
+  ../libdnet-stripped/include/dnet/rand.h stats.h nping_config.h \
+  NpingOps.h global_structures.h ../nsock/include/nsock.h \
+  ../nsock/include/nsock_config.h NpingTargets.h common_modified.h \
+  common.h NpingTarget.h output.h
+NpingTargets.o: NpingTargets.cc nping.h ../nbase/nbase.h \
+  ../nbase/getopt.h ../nbase/nbase_ipv6.h ../libnetutil/netutil.h \
+  ../libdnet-stripped/include/dnet.h \
+  ../libdnet-stripped/include/dnet/os.h \
+  ../libdnet-stripped/include/dnet/eth.h \
+  ../libdnet-stripped/include/dnet/ip.h \
+  ../libdnet-stripped/include/dnet/ip6.h \
+  ../libdnet-stripped/include/dnet/addr.h \
+  ../libdnet-stripped/include/dnet/arp.h \
+  ../libdnet-stripped/include/dnet/icmp.h \
+  ../libdnet-stripped/include/dnet/tcp.h \
+  ../libdnet-stripped/include/dnet/udp.h \
+  ../libdnet-stripped/include/dnet/sctp.h \
+  ../libdnet-stripped/include/dnet/intf.h \
+  ../libdnet-stripped/include/dnet/route.h \
+  ../libdnet-stripped/include/dnet/fw.h \
+  ../libdnet-stripped/include/dnet/tun.h \
+  ../libdnet-stripped/include/dnet/blob.h \
+  ../libdnet-stripped/include/dnet/rand.h NpingOps.h global_structures.h \
+  ../nsock/include/nsock.h ../nsock/include/nsock_config.h stats.h \
+  nping_config.h NpingTargets.h common_modified.h common.h NpingTarget.h \
+  output.h utils.h
+NpingTarget.o: NpingTarget.cc NpingTarget.h nping.h ../nbase/nbase.h \
+  ../nbase/getopt.h ../nbase/nbase_ipv6.h ../libnetutil/netutil.h \
+  ../libdnet-stripped/include/dnet.h \
+  ../libdnet-stripped/include/dnet/os.h \
+  ../libdnet-stripped/include/dnet/eth.h \
+  ../libdnet-stripped/include/dnet/ip.h \
+  ../libdnet-stripped/include/dnet/ip6.h \
+  ../libdnet-stripped/include/dnet/addr.h \
+  ../libdnet-stripped/include/dnet/arp.h \
+  ../libdnet-stripped/include/dnet/icmp.h \
+  ../libdnet-stripped/include/dnet/tcp.h \
+  ../libdnet-stripped/include/dnet/udp.h \
+  ../libdnet-stripped/include/dnet/sctp.h \
+  ../libdnet-stripped/include/dnet/intf.h \
+  ../libdnet-stripped/include/dnet/route.h \
+  ../libdnet-stripped/include/dnet/fw.h \
+  ../libdnet-stripped/include/dnet/tun.h \
+  ../libdnet-stripped/include/dnet/blob.h \
+  ../libdnet-stripped/include/dnet/rand.h common.h \
+  ../libdnet-stripped/include/dnet.h output.h stats.h nping_config.h \
+  common_modified.h
+EthernetHeader.o: EthernetHeader.cc EthernetHeader.h \
+  DataLinkLayerElement.h PacketElement.h nping.h ../nbase/nbase.h \
+  ../nbase/getopt.h ../nbase/nbase_ipv6.h ../libnetutil/netutil.h \
+  ../libdnet-stripped/include/dnet.h \
+  ../libdnet-stripped/include/dnet/os.h \
+  ../libdnet-stripped/include/dnet/eth.h \
+  ../libdnet-stripped/include/dnet/ip.h \
+  ../libdnet-stripped/include/dnet/ip6.h \
+  ../libdnet-stripped/include/dnet/addr.h \
+  ../libdnet-stripped/include/dnet/arp.h \
+  ../libdnet-stripped/include/dnet/icmp.h \
+  ../libdnet-stripped/include/dnet/tcp.h \
+  ../libdnet-stripped/include/dnet/udp.h \
+  ../libdnet-stripped/include/dnet/sctp.h \
+  ../libdnet-stripped/include/dnet/intf.h \
+  ../libdnet-stripped/include/dnet/route.h \
+  ../libdnet-stripped/include/dnet/fw.h \
+  ../libdnet-stripped/include/dnet/tun.h \
+  ../libdnet-stripped/include/dnet/blob.h \
+  ../libdnet-stripped/include/dnet/rand.h output.h common.h utils_net.h \
+  NpingTarget.h
+ARPHeader.o: ARPHeader.cc nping.h ../nbase/nbase.h ../nbase/getopt.h \
+  ../nbase/nbase_ipv6.h ../libnetutil/netutil.h \
+  ../libdnet-stripped/include/dnet.h \
+  ../libdnet-stripped/include/dnet/os.h \
+  ../libdnet-stripped/include/dnet/eth.h \
+  ../libdnet-stripped/include/dnet/ip.h \
+  ../libdnet-stripped/include/dnet/ip6.h \
+  ../libdnet-stripped/include/dnet/addr.h \
+  ../libdnet-stripped/include/dnet/arp.h \
+  ../libdnet-stripped/include/dnet/icmp.h \
+  ../libdnet-stripped/include/dnet/tcp.h \
+  ../libdnet-stripped/include/dnet/udp.h \
+  ../libdnet-stripped/include/dnet/sctp.h \
+  ../libdnet-stripped/include/dnet/intf.h \
+  ../libdnet-stripped/include/dnet/route.h \
+  ../libdnet-stripped/include/dnet/fw.h \
+  ../libdnet-stripped/include/dnet/tun.h \
+  ../libdnet-stripped/include/dnet/blob.h \
+  ../libdnet-stripped/include/dnet/rand.h common.h \
+  ../libdnet-stripped/include/dnet.h utils_net.h NpingTarget.h \
+  ARPHeader.h NetworkLayerElement.h PacketElement.h output.h
+EchoHeader.o: EchoHeader.cc EchoHeader.h ApplicationLayerElement.h \
+  PacketElement.h nping.h ../nbase/nbase.h ../nbase/getopt.h \
+  ../nbase/nbase_ipv6.h ../libnetutil/netutil.h \
+  ../libdnet-stripped/include/dnet.h \
+  ../libdnet-stripped/include/dnet/os.h \
+  ../libdnet-stripped/include/dnet/eth.h \
+  ../libdnet-stripped/include/dnet/ip.h \
+  ../libdnet-stripped/include/dnet/ip6.h \
+  ../libdnet-stripped/include/dnet/addr.h \
+  ../libdnet-stripped/include/dnet/arp.h \
+  ../libdnet-stripped/include/dnet/icmp.h \
+  ../libdnet-stripped/include/dnet/tcp.h \
+  ../libdnet-stripped/include/dnet/udp.h \
+  ../libdnet-stripped/include/dnet/sctp.h \
+  ../libdnet-stripped/include/dnet/intf.h \
+  ../libdnet-stripped/include/dnet/route.h \
+  ../libdnet-stripped/include/dnet/fw.h \
+  ../libdnet-stripped/include/dnet/tun.h \
+  ../libdnet-stripped/include/dnet/blob.h \
+  ../libdnet-stripped/include/dnet/rand.h output.h Crypto.h
+EchoServer.o: EchoServer.cc nping.h ../nbase/nbase.h ../nbase/getopt.h \
+  ../nbase/nbase_ipv6.h ../libnetutil/netutil.h \
+  ../libdnet-stripped/include/dnet.h \
+  ../libdnet-stripped/include/dnet/os.h \
+  ../libdnet-stripped/include/dnet/eth.h \
+  ../libdnet-stripped/include/dnet/ip.h \
+  ../libdnet-stripped/include/dnet/ip6.h \
+  ../libdnet-stripped/include/dnet/addr.h \
+  ../libdnet-stripped/include/dnet/arp.h \
+  ../libdnet-stripped/include/dnet/icmp.h \
+  ../libdnet-stripped/include/dnet/tcp.h \
+  ../libdnet-stripped/include/dnet/udp.h \
+  ../libdnet-stripped/include/dnet/sctp.h \
+  ../libdnet-stripped/include/dnet/intf.h \
+  ../libdnet-stripped/include/dnet/route.h \
+  ../libdnet-stripped/include/dnet/fw.h \
+  ../libdnet-stripped/include/dnet/tun.h \
+  ../libdnet-stripped/include/dnet/blob.h \
+  ../libdnet-stripped/include/dnet/rand.h EchoServer.h \
+  ../nsock/include/nsock.h ../nsock/include/nsock_config.h NEPContext.h \
+  EchoHeader.h ApplicationLayerElement.h PacketElement.h output.h \
+  IPv4Header.h NetworkLayerElement.h IPv6Header.h TCPHeader.h \
+  TransportLayerElement.h UDPHeader.h ICMPv4Header.h RawData.h NpingOps.h \
+  global_structures.h stats.h nping_config.h NpingTargets.h \
+  common_modified.h common.h NpingTarget.h ProbeMode.h EthernetHeader.h \
+  DataLinkLayerElement.h ARPHeader.h utils_net.h utils.h
+EchoClient.o: EchoClient.cc nping.h ../nbase/nbase.h ../nbase/getopt.h \
+  ../nbase/nbase_ipv6.h ../libnetutil/netutil.h \
+  ../libdnet-stripped/include/dnet.h \
+  ../libdnet-stripped/include/dnet/os.h \
+  ../libdnet-stripped/include/dnet/eth.h \
+  ../libdnet-stripped/include/dnet/ip.h \
+  ../libdnet-stripped/include/dnet/ip6.h \
+  ../libdnet-stripped/include/dnet/addr.h \
+  ../libdnet-stripped/include/dnet/arp.h \
+  ../libdnet-stripped/include/dnet/icmp.h \
+  ../libdnet-stripped/include/dnet/tcp.h \
+  ../libdnet-stripped/include/dnet/udp.h \
+  ../libdnet-stripped/include/dnet/sctp.h \
+  ../libdnet-stripped/include/dnet/intf.h \
+  ../libdnet-stripped/include/dnet/route.h \
+  ../libdnet-stripped/include/dnet/fw.h \
+  ../libdnet-stripped/include/dnet/tun.h \
+  ../libdnet-stripped/include/dnet/blob.h \
+  ../libdnet-stripped/include/dnet/rand.h EchoClient.h NpingTarget.h \
+  common.h NEPContext.h ../nsock/include/nsock.h \
+  ../nsock/include/nsock_config.h EchoHeader.h ApplicationLayerElement.h \
+  PacketElement.h output.h ProbeMode.h IPv4Header.h NetworkLayerElement.h \
+  IPv6Header.h TCPHeader.h TransportLayerElement.h UDPHeader.h \
+  ICMPv4Header.h EthernetHeader.h DataLinkLayerElement.h ARPHeader.h \
+  RawData.h utils_net.h utils.h global_structures.h NpingOps.h stats.h \
+  nping_config.h NpingTargets.h common_modified.h Crypto.h
+ProbeMode.o: ProbeMode.cc nping.h ../nbase/nbase.h ../nbase/getopt.h \
+  ../nbase/nbase_ipv6.h ../libnetutil/netutil.h \
+  ../libdnet-stripped/include/dnet.h \
+  ../libdnet-stripped/include/dnet/os.h \
+  ../libdnet-stripped/include/dnet/eth.h \
+  ../libdnet-stripped/include/dnet/ip.h \
+  ../libdnet-stripped/include/dnet/ip6.h \
+  ../libdnet-stripped/include/dnet/addr.h \
+  ../libdnet-stripped/include/dnet/arp.h \
+  ../libdnet-stripped/include/dnet/icmp.h \
+  ../libdnet-stripped/include/dnet/tcp.h \
+  ../libdnet-stripped/include/dnet/udp.h \
+  ../libdnet-stripped/include/dnet/sctp.h \
+  ../libdnet-stripped/include/dnet/intf.h \
+  ../libdnet-stripped/include/dnet/route.h \
+  ../libdnet-stripped/include/dnet/fw.h \
+  ../libdnet-stripped/include/dnet/tun.h \
+  ../libdnet-stripped/include/dnet/blob.h \
+  ../libdnet-stripped/include/dnet/rand.h ProbeMode.h \
+  ../nsock/include/nsock.h ../nsock/include/nsock_config.h IPv4Header.h \
+  NetworkLayerElement.h PacketElement.h output.h IPv6Header.h TCPHeader.h \
+  TransportLayerElement.h UDPHeader.h ICMPv4Header.h EthernetHeader.h \
+  DataLinkLayerElement.h ARPHeader.h RawData.h ApplicationLayerElement.h \
+  NpingTarget.h common.h utils_net.h utils.h global_structures.h \
+  NpingOps.h stats.h nping_config.h NpingTargets.h common_modified.h
+NEPContext.o: NEPContext.cc nping.h ../nbase/nbase.h ../nbase/getopt.h \
+  ../nbase/nbase_ipv6.h ../libnetutil/netutil.h \
+  ../libdnet-stripped/include/dnet.h \
+  ../libdnet-stripped/include/dnet/os.h \
+  ../libdnet-stripped/include/dnet/eth.h \
+  ../libdnet-stripped/include/dnet/ip.h \
+  ../libdnet-stripped/include/dnet/ip6.h \
+  ../libdnet-stripped/include/dnet/addr.h \
+  ../libdnet-stripped/include/dnet/arp.h \
+  ../libdnet-stripped/include/dnet/icmp.h \
+  ../libdnet-stripped/include/dnet/tcp.h \
+  ../libdnet-stripped/include/dnet/udp.h \
+  ../libdnet-stripped/include/dnet/sctp.h \
+  ../libdnet-stripped/include/dnet/intf.h \
+  ../libdnet-stripped/include/dnet/route.h \
+  ../libdnet-stripped/include/dnet/fw.h \
+  ../libdnet-stripped/include/dnet/tun.h \
+  ../libdnet-stripped/include/dnet/blob.h \
+  ../libdnet-stripped/include/dnet/rand.h NEPContext.h \
+  ../nsock/include/nsock.h ../nsock/include/nsock_config.h EchoHeader.h \
+  ApplicationLayerElement.h PacketElement.h output.h Crypto.h NpingOps.h \
+  global_structures.h stats.h nping_config.h NpingTargets.h \
+  common_modified.h common.h NpingTarget.h
+Crypto.o: Crypto.cc nping.h ../nbase/nbase.h ../nbase/getopt.h \
+  ../nbase/nbase_ipv6.h ../libnetutil/netutil.h \
+  ../libdnet-stripped/include/dnet.h \
+  ../libdnet-stripped/include/dnet/os.h \
+  ../libdnet-stripped/include/dnet/eth.h \
+  ../libdnet-stripped/include/dnet/ip.h \
+  ../libdnet-stripped/include/dnet/ip6.h \
+  ../libdnet-stripped/include/dnet/addr.h \
+  ../libdnet-stripped/include/dnet/arp.h \
+  ../libdnet-stripped/include/dnet/icmp.h \
+  ../libdnet-stripped/include/dnet/tcp.h \
+  ../libdnet-stripped/include/dnet/udp.h \
+  ../libdnet-stripped/include/dnet/sctp.h \
+  ../libdnet-stripped/include/dnet/intf.h \
+  ../libdnet-stripped/include/dnet/route.h \
+  ../libdnet-stripped/include/dnet/fw.h \
+  ../libdnet-stripped/include/dnet/tun.h \
+  ../libdnet-stripped/include/dnet/blob.h \
+  ../libdnet-stripped/include/dnet/rand.h Crypto.h output.h NpingOps.h \
+  global_structures.h ../nsock/include/nsock.h \
+  ../nsock/include/nsock_config.h stats.h nping_config.h NpingTargets.h \
+  common_modified.h common.h NpingTarget.h
+PacketDiff.o: PacketDiff.cc PacketDiff.h IPv4Header.h \
+  NetworkLayerElement.h PacketElement.h nping.h ../nbase/nbase.h \
+  ../nbase/getopt.h ../nbase/nbase_ipv6.h ../libnetutil/netutil.h \
+  ../libdnet-stripped/include/dnet.h \
+  ../libdnet-stripped/include/dnet/os.h \
+  ../libdnet-stripped/include/dnet/eth.h \
+  ../libdnet-stripped/include/dnet/ip.h \
+  ../libdnet-stripped/include/dnet/ip6.h \
+  ../libdnet-stripped/include/dnet/addr.h \
+  ../libdnet-stripped/include/dnet/arp.h \
+  ../libdnet-stripped/include/dnet/icmp.h \
+  ../libdnet-stripped/include/dnet/tcp.h \
+  ../libdnet-stripped/include/dnet/udp.h \
+  ../libdnet-stripped/include/dnet/sctp.h \
+  ../libdnet-stripped/include/dnet/intf.h \
+  ../libdnet-stripped/include/dnet/route.h \
+  ../libdnet-stripped/include/dnet/fw.h \
+  ../libdnet-stripped/include/dnet/tun.h \
+  ../libdnet-stripped/include/dnet/blob.h \
+  ../libdnet-stripped/include/dnet/rand.h output.h IPv6Header.h \
+  TCPHeader.h TransportLayerElement.h UDPHeader.h ICMPv4Header.h \
+  RawData.h ApplicationLayerElement.h EthernetHeader.h \
+  DataLinkLayerElement.h

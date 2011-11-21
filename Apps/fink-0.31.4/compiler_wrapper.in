@@ -1,0 +1,29 @@
+#!/bin/sh
+compiler=${0##*/}
+save_IFS="$IFS"
+IFS=:
+newpath=
+for dir in $PATH ; do
+  case $dir in
+    *var/lib/fink/path-prefix*) ;;
+    *) newpath="${newpath:+${newpath}:}$dir" ;;
+  esac
+done
+IFS="$save_IFS"
+export PATH="$newpath"
+# use Apple gcc-4.2 compilers on SL
+case `uname -r` in
+10.*)
+        case $compiler in
+        cc|gcc)
+                compiler="gcc-4.2"
+                ;;
+        c++|g++)
+                compiler="g++-4.2"
+                ;;
+        esac
+        ;;
+esac
+exec $compiler -arch @ARCHITECTURE@ "$@"
+# strip path-prefix to avoid finding this wrapper again
+# @PREFIX@/bin is needed to pick up ccache-default

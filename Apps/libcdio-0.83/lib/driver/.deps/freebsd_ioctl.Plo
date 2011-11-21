@@ -1,0 +1,3 @@
+freebsd_ioctl.lo freebsd_ioctl.o: FreeBSD/freebsd_ioctl.c ../../config.h
+
+../../config.h:

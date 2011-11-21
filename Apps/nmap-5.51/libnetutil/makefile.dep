@@ -1,0 +1,19 @@
+netutil.o: netutil.cc ../nmap_config.h ../nbase/nbase.h \
+  ../nbase/nbase_config.h ../nbase/getopt.h ../nbase/nbase_ipv6.h \
+  netutil.h ../libdnet-stripped/include/dnet.h \
+  ../libdnet-stripped/include/dnet/os.h \
+  ../libdnet-stripped/include/dnet/eth.h \
+  ../libdnet-stripped/include/dnet/ip.h \
+  ../libdnet-stripped/include/dnet/ip6.h \
+  ../libdnet-stripped/include/dnet/addr.h \
+  ../libdnet-stripped/include/dnet/arp.h \
+  ../libdnet-stripped/include/dnet/icmp.h \
+  ../libdnet-stripped/include/dnet/tcp.h \
+  ../libdnet-stripped/include/dnet/udp.h \
+  ../libdnet-stripped/include/dnet/sctp.h \
+  ../libdnet-stripped/include/dnet/intf.h \
+  ../libdnet-stripped/include/dnet/route.h \
+  ../libdnet-stripped/include/dnet/fw.h \
+  ../libdnet-stripped/include/dnet/tun.h \
+  ../libdnet-stripped/include/dnet/blob.h \
+  ../libdnet-stripped/include/dnet/rand.h
