@@ -1,0 +1,28 @@
+xreadlink.o xreadlink.o: xreadlink.c config.h xreadlink.h \
+  /usr/include/errno.h /usr/include/sys/errno.h /usr/include/sys/cdefs.h \
+  /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h areadlink.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h \
+  xalloc.h xalloc-oversized.h
+
+config.h:
+
+xreadlink.h:
+
+/usr/include/errno.h:
+
+/usr/include/sys/errno.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/sys/_symbol_aliasing.h:
+
+/usr/include/sys/_posix_availability.h:
+
+areadlink.h:
+
+/usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h:
+
+xalloc.h:
+
+xalloc-oversized.h:

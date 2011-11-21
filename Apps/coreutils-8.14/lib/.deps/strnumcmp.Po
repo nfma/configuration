@@ -1,0 +1,10 @@
+strnumcmp.o strnumcmp.o: strnumcmp.c config.h strnumcmp-in.h strnumcmp.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h
+
+config.h:
+
+strnumcmp-in.h:
+
+strnumcmp.h:
+
+/usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h:

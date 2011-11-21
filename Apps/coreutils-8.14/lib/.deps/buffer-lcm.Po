@@ -1,0 +1,8 @@
+buffer-lcm.o buffer-lcm.o: buffer-lcm.c config.h buffer-lcm.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h
+
+config.h:
+
+buffer-lcm.h:
+
+/usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h:

@@ -1,0 +1,327 @@
+dd.o dd.o: dd.c ../lib/config.h ../lib/sys/types.h \
+  /usr/include/sys/types.h /usr/include/sys/appleapiopts.h \
+  /usr/include/sys/cdefs.h /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/machine/types.h \
+  /usr/include/i386/types.h /usr/include/i386/_types.h \
+  /usr/include/sys/_types.h /usr/include/machine/_types.h \
+  /usr/include/machine/endian.h /usr/include/i386/endian.h \
+  /usr/include/sys/_endian.h /usr/include/libkern/_OSByteOrder.h \
+  /usr/include/libkern/i386/_OSByteOrder.h /usr/include/sys/_structs.h \
+  ../lib/signal.h /usr/include/signal.h /usr/include/_types.h \
+  /usr/include/sys/signal.h /usr/include/machine/signal.h \
+  /usr/include/i386/signal.h /usr/include/i386/_structs.h \
+  /usr/include/machine/_structs.h /usr/include/mach/i386/_structs.h \
+  ../lib/getopt.h /usr/include/getopt.h ../lib/unistd.h \
+  /usr/include/unistd.h /usr/include/sys/unistd.h \
+  /usr/include/Availability.h /usr/include/AvailabilityInternal.h \
+  ../lib/sys/select.h ../lib/sys/time.h /usr/include/sys/time.h \
+  ../lib/time.h /usr/include/time.h /usr/include/_structs.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h \
+  /usr/include/sys/_select.h /usr/include/sys/select.h ../lib/stdlib.h \
+  /usr/include/stdlib.h ../lib/sys/wait.h /usr/include/sys/wait.h \
+  /usr/include/sys/resource.h ../lib/alloca.h /usr/include/crt_externs.h \
+  ../lib/ctype.h /usr/include/ctype.h /usr/include/runetype.h system.h \
+  ../lib/sys/stat.h /usr/include/sys/stat.h /usr/include/sys/param.h \
+  /usr/include/sys/syslimits.h /usr/include/machine/param.h \
+  /usr/include/i386/param.h /usr/include/i386/_param.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/limits.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/syslimits.h \
+  /Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/limits.h \
+  /Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/syslimits.h \
+  /usr/include/limits.h /usr/include/machine/limits.h \
+  /usr/include/i386/limits.h /usr/include/i386/_limits.h \
+  ../lib/configmake.h ../lib/string.h /usr/include/string.h \
+  /usr/include/strings.h /usr/include/secure/_string.h \
+  /usr/include/secure/_common.h /usr/include/errno.h \
+  /usr/include/sys/errno.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stdbool.h \
+  version.h ../lib/exitfail.h ../lib/fcntl.h /usr/include/fcntl.h \
+  /usr/include/sys/fcntl.h ../lib/dirent.h /usr/include/dirent.h \
+  /usr/include/sys/dirent.h ../lib/inttypes.h /usr/include/inttypes.h \
+  ../lib/stdint.h /usr/include/stdint.h ../lib/stat-macros.h \
+  ../lib/timespec.h ../lib/locale.h /usr/include/locale.h \
+  /usr/include/_locale.h /usr/include/xlocale.h /usr/include/_xlocale.h \
+  /usr/include/xlocale/_ctype.h /usr/include/xlocale/_inttypes.h \
+  /usr/include/xlocale/_stdlib.h /usr/include/xlocale/_string.h \
+  /usr/include/xlocale/_time.h ../lib/gettext.h ../lib/xalloc.h \
+  ../lib/xalloc-oversized.h ../lib/verify.h ../lib/unlocked-io.h \
+  ../lib/stdio.h /usr/include/stdio.h /usr/include/xlocale/_stdio.h \
+  /usr/include/secure/_stdio.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h \
+  ../lib/same-inode.h ../lib/dirname.h ../lib/dosname.h ../lib/openat.h \
+  ../lib/closein.h ../lib/closeout.h ../lib/version-etc.h \
+  ../lib/propername.h ../lib/progname.h ../lib/intprops.h \
+  ../lib/inttostr.h ../lib/intprops.h ../lib/close-stream.h \
+  ../lib/error.h ../lib/fd-reopen.h ../lib/gethrxtime.h ../lib/xtime.h \
+  ../lib/human.h ../lib/xstrtol.h ../lib/long-options.h ../lib/quote.h \
+  ../lib/quotearg.h ../lib/xtime.h
+
+../lib/config.h:
+
+../lib/sys/types.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/sys/appleapiopts.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/sys/_symbol_aliasing.h:
+
+/usr/include/sys/_posix_availability.h:
+
+/usr/include/machine/types.h:
+
+/usr/include/i386/types.h:
+
+/usr/include/i386/_types.h:
+
+/usr/include/sys/_types.h:
+
+/usr/include/machine/_types.h:
+
+/usr/include/machine/endian.h:
+
+/usr/include/i386/endian.h:
+
+/usr/include/sys/_endian.h:
+
+/usr/include/libkern/_OSByteOrder.h:
+
+/usr/include/libkern/i386/_OSByteOrder.h:
+
+/usr/include/sys/_structs.h:
+
+../lib/signal.h:
+
+/usr/include/signal.h:
+
+/usr/include/_types.h:
+
+/usr/include/sys/signal.h:
+
+/usr/include/machine/signal.h:
+
+/usr/include/i386/signal.h:
+
+/usr/include/i386/_structs.h:
+
+/usr/include/machine/_structs.h:
+
+/usr/include/mach/i386/_structs.h:
+
+../lib/getopt.h:
+
+/usr/include/getopt.h:
+
+../lib/unistd.h:
+
+/usr/include/unistd.h:
+
+/usr/include/sys/unistd.h:
+
+/usr/include/Availability.h:
+
+/usr/include/AvailabilityInternal.h:
+
+../lib/sys/select.h:
+
+../lib/sys/time.h:
+
+/usr/include/sys/time.h:
+
+../lib/time.h:
+
+/usr/include/time.h:
+
+/usr/include/_structs.h:
+
+/usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h:
+
+/usr/include/sys/_select.h:
+
+/usr/include/sys/select.h:
+
+../lib/stdlib.h:
+
+/usr/include/stdlib.h:
+
+../lib/sys/wait.h:
+
+/usr/include/sys/wait.h:
+
+/usr/include/sys/resource.h:
+
+../lib/alloca.h:
+
+/usr/include/crt_externs.h:
+
+../lib/ctype.h:
+
+/usr/include/ctype.h:
+
+/usr/include/runetype.h:
+
+system.h:
+
+../lib/sys/stat.h:
+
+/usr/include/sys/stat.h:
+
+/usr/include/sys/param.h:
+
+/usr/include/sys/syslimits.h:
+
+/usr/include/machine/param.h:
+
+/usr/include/i386/param.h:
+
+/usr/include/i386/_param.h:
+
+/usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/limits.h:
+
+/usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/syslimits.h:
+
+/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/limits.h:
+
+/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/syslimits.h:
+
+/usr/include/limits.h:
+
+/usr/include/machine/limits.h:
+
+/usr/include/i386/limits.h:
+
+/usr/include/i386/_limits.h:
+
+../lib/configmake.h:
+
+../lib/string.h:
+
+/usr/include/string.h:
+
+/usr/include/strings.h:
+
+/usr/include/secure/_string.h:
+
+/usr/include/secure/_common.h:
+
+/usr/include/errno.h:
+
+/usr/include/sys/errno.h:
+
+/usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stdbool.h:
+
+version.h:
+
+../lib/exitfail.h:
+
+../lib/fcntl.h:
+
+/usr/include/fcntl.h:
+
+/usr/include/sys/fcntl.h:
+
+../lib/dirent.h:
+
+/usr/include/dirent.h:
+
+/usr/include/sys/dirent.h:
+
+../lib/inttypes.h:
+
+/usr/include/inttypes.h:
+
+../lib/stdint.h:
+
+/usr/include/stdint.h:
+
+../lib/stat-macros.h:
+
+../lib/timespec.h:
+
+../lib/locale.h:
+
+/usr/include/locale.h:
+
+/usr/include/_locale.h:
+
+/usr/include/xlocale.h:
+
+/usr/include/_xlocale.h:
+
+/usr/include/xlocale/_ctype.h:
+
+/usr/include/xlocale/_inttypes.h:
+
+/usr/include/xlocale/_stdlib.h:
+
+/usr/include/xlocale/_string.h:
+
+/usr/include/xlocale/_time.h:
+
+../lib/gettext.h:
+
+../lib/xalloc.h:
+
+../lib/xalloc-oversized.h:
+
+../lib/verify.h:
+
+../lib/unlocked-io.h:
+
+../lib/stdio.h:
+
+/usr/include/stdio.h:
+
+/usr/include/xlocale/_stdio.h:
+
+/usr/include/secure/_stdio.h:
+
+/usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h:
+
+../lib/same-inode.h:
+
+../lib/dirname.h:
+
+../lib/dosname.h:
+
+../lib/openat.h:
+
+../lib/closein.h:
+
+../lib/closeout.h:
+
+../lib/version-etc.h:
+
+../lib/propername.h:
+
+../lib/progname.h:
+
+../lib/intprops.h:
+
+../lib/inttostr.h:
+
+../lib/intprops.h:
+
+../lib/close-stream.h:
+
+../lib/error.h:
+
+../lib/fd-reopen.h:
+
+../lib/gethrxtime.h:
+
+../lib/xtime.h:
+
+../lib/human.h:
+
+../lib/xstrtol.h:
+
+../lib/long-options.h:
+
+../lib/quote.h:
+
+../lib/quotearg.h:
+
+../lib/xtime.h:

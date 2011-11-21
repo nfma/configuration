@@ -1,0 +1,28 @@
+printf-frexpl.o printf-frexpl.o: printf-frexpl.c printf-frexp.c config.h \
+  printf-frexpl.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/float.h \
+  math.h /usr/include/math.h /usr/include/architecture/i386/math.h \
+  /usr/include/sys/cdefs.h /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h fpucw.h
+
+printf-frexp.c:
+
+config.h:
+
+printf-frexpl.h:
+
+/usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/float.h:
+
+math.h:
+
+/usr/include/math.h:
+
+/usr/include/architecture/i386/math.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/sys/_symbol_aliasing.h:
+
+/usr/include/sys/_posix_availability.h:
+
+fpucw.h:
