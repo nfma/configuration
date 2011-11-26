@@ -62,7 +62,7 @@ REV_CYAN="\[$ESC[${DULL};${BG_WHITE};${BG_CYAN}m\]"
 REV_RED="\[$ESC[${DULL};${FG_YELLOW}; ${BG_RED}m\]"
 
 PROMPT_COMMAND='export ERR=$?'
-PS1="${BRIGHT_CYAN}[${CYAN}\u$@\h${VIOLET}:\w${BRIGHT_CYAN}]${NORMAL}\$ ${RESET}"
+PS1="${BRIGHT_CYAN}[${CYAN}\u@\h${VIOLET}:\w${BRIGHT_CYAN}]${NORMAL}\$ ${RESET}"
 
 alias ls='ls --color=auto'
 
