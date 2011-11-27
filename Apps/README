@@ -1,0 +1,10 @@
+to install readline:
+
+install gcc-4.2 from here:
+http://cloud.github.com/downloads/kennethreitz/osx-gcc-installer/GCC-10.7-v2.pkg
+
+add -dynamiclib inside the support/shobj.conf files
+
+to install rlwrap:
+add the path to the just installed readline: 
+make LDFLAGS="-L /usr/local/lib"

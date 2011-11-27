@@ -1,4 +1,4 @@
-eval `dircolors .dircolors`
+eval `dircolors $HOME/.dircolors`
 
 DULL=0
 BRIGHT=1
