@@ -70,5 +70,5 @@ alias ls='ls --color=auto'
 
 rvm 1.9.3
 
-export PATH="/usr/local/bin:$PATH:/usr/local/sw/bin:/Users/nfma/Apps/apache-maven-3.0.3/bin:/usr/local/mysql-5.5.18-osx10.6-x86_64/bin"
+export PATH="/Library/PostgreSQL/9.1/bin:/usr/local/bin:$PATH:/usr/local/sw/bin:/Users/nfma/Apps/apache-maven-3.0.3/bin:/usr/local/mysql-5.5.18-osx10.6-x86_64/bin"
 export M2_HOME=/Users/nfma/Apps/apache-maven-3.0.3
