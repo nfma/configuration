@@ -1,0 +1,1 @@
+("5.2.1" ("a50ef435faef3c6fb0684b52434ec03e9b4b9a5f" . "189f6dd10edbd06ff6928195b4802e738b35ff85") (collects #"setup" #"xref.rkt") (collects #"scribble" #"manual" #"lang.rkt") (collects #"scribblings" #"scribble" #"utils.rkt") (collects #"scribble" #"bnf.rkt") (collects #"scribble" #"manual" #"lang" #"reader.rkt"))

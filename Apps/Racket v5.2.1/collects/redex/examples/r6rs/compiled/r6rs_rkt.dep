@@ -1,0 +1,1 @@
+("5.2.1" ("40f33d2620fcaf4558b580b6eb936a05561bffde" . "a18df6d990271240cad3f0d95a77daa4786c6eee") (collects #"racket" #"main.rkt") (collects #"redex" #"reduction-semantics.rkt") (collects #"racket" #"match.rkt") (collects #"racket" #"lang" #"reader.rkt"))

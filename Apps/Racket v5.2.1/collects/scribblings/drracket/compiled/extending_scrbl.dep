@@ -1,0 +1,1 @@
+("5.2.1" ("d85ca842d5f0cb486a2328a29bf0e9844d5b8147" . "4b08c717127bfbbba22dd86514e1926ccccbdddc") (collects #"compiler" #"cm.rkt") (collects #"setup" #"parallel-build.rkt") (collects #"racket" #"promise.rkt") (collects #"scribble" #"doclang.rkt") (collects #"scribblings" #"drracket" #"common.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

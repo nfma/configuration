@@ -1,0 +1,1 @@
+("5.2.1" ("3ccd0009da504a634dc9a0076707b7ff129377f1" . "d377cfcebbcf3b8592ba80d89c859e2a3d1bf53d") (collects #"scheme" #"base.rkt") (collects #"mzlib" #"unit.rkt") (collects #"syntax" #"kerncase.rkt") (collects #"syntax" #"stx.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

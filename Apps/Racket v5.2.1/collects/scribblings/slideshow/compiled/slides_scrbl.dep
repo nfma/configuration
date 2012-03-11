@@ -1,0 +1,1 @@
+("5.2.1" ("f00135f678b4a0e3d3c0beaf026ca67568f0baef" . "2454a84edfda36b459c5f09c6a51abb2201c57d5") (collects #"racket" #"gui.rkt") (collects #"slideshow" #"step.rkt") (collects #"slideshow" #"slides-to-picts.rkt") (collects #"scribble" #"doclang.rkt") (collects #"scribblings" #"slideshow" #"ss.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

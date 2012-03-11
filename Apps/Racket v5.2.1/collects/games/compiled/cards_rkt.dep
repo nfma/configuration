@@ -1,0 +1,1 @@
+("5.2.1" ("4fd0472aac623e67cf668580b1d106491ec7b925" . "e70d27e42d2d0e98125d609c421022619b31a374") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"games" #"cards" #"cards.rkt") (collects #"mzscheme" #"lang" #"reader.rkt"))

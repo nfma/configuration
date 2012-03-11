@@ -1,0 +1,1 @@
+("5.2.1" ("a2b10867e14a800728885430467d69008584a425" . "77d81c6ce47b3705c88f9b58f5fdcb6ca0414fd2") (collects #"scheme" #"mzscheme.rkt") (collects #"lang" #"private" #"firstorder.rkt") (collects #"stepper" #"private" #"shared.rkt") (collects #"mzscheme" #"main.rkt") (collects #"lang" #"error.rkt") (collects #"lang" #"htdp-beginner.rkt"))

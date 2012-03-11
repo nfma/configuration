@@ -1,0 +1,1 @@
+("5.2.1" ("184cd115571a6beb41a3f365ff52b7af3c0d8266" . "62030892ff1d076018f25e0a5225fb96cfd23244") (collects #"racket" #"base.rkt") (collects #"racket" #"require-transform.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

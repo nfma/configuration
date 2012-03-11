@@ -1,0 +1,1 @@
+("5.2.1" ("a181aed024c7d03b5f16eaa124c9482452d343e9" . "4db832a1ef2ebfd0d973cf9457c3dd269bde3be1") (collects #"scheme" #"base.rkt") (collects #"texpict" #"mrpict.rkt") (collects #"texpict" #"utils.rkt") (collects #"racket" #"draw.rkt") (collects #"racket" #"class.rkt") (collects #"racket" #"contract.rkt"))

@@ -1,0 +1,1 @@
+("5.2.1" ("9fcf7f9062fb46174a31e89aa086f61f174c562b" . "4b343fd9fc90ab2a7f26e47558424e293782e6fb") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"mzlib" #"class.rkt") (collects #"mred" #"private" #"kernel.rkt") (collects #"mred" #"private" #"wx.rkt") (collects #"mred" #"private" #"const.rkt"))

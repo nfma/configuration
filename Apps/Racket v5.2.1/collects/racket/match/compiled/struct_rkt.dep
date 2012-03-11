@@ -1,0 +1,1 @@
+("5.2.1" ("96287b1bce1c7a9b0e2cde2e8e8f58cb9566426d" . "6620e6704041b8452f8566df032381e8ef77e054") (collects #"racket" #"base.rkt") (collects #"racket" #"struct-info.rkt") (collects #"syntax" #"boundmap.rkt") (collects #"racket" #"list.rkt") (collects #"racket" #"match" #"match-expander.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

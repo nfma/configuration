@@ -1,0 +1,1 @@
+("5.2.1" ("acf75614a317d7b88a2f3bb4e2c88756c92abbec" . "51c8aa14b488d6ffe2fc8ea9df5af7ffe2e0811a") (collects #"racket" #"main.rkt") (collects #"racket" #"contract.rkt") (collects #"racket" #"unsafe" #"ops.rkt") (collects #"unstable" #"flonum.rkt") (collects #"unstable" #"latent-contract" #"defthing.rkt") (collects #"racket" #"lang" #"reader.rkt"))

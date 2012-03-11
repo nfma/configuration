@@ -1,0 +1,1 @@
+("5.2.1" ("6b0d2ff6610397090a84d07842f9b0e0178f5c41" . "afeefe1d53d41ca8f408bf476aba11ad0c64ca72") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"games" #"parcheesi" #"board.rkt") (collects #"mzlib" #"contract.rkt") (collects #"mzlib" #"list.rkt"))

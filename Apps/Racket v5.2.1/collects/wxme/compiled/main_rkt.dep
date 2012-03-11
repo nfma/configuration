@@ -1,0 +1,1 @@
+("5.2.1" ("abf66f3728b5e096ff10e7a1bb45017374359d47" . "e71a89fa79821ead520772c981ca96bdc068012f") (collects #"scheme" #"base.rkt") (collects #"wxme" #"wxme.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

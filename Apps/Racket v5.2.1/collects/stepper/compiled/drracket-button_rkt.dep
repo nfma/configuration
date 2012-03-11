@@ -1,0 +1,1 @@
+("5.2.1" ("478ec647310c2ecd7a58f4dcf323276a7a18dacd" . "a2e7dbeb07c439bdb5ecfba0b0c8ff84da30a8c0") (collects #"scheme" #"base.rkt") (collects #"scheme" #"class.rkt") (collects #"string-constants" #"string-constant.rkt") (collects #"stepper" #"private" #"mred-extensions.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

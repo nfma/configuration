@@ -1,0 +1,1 @@
+("5.2.1" ("32bd84262abf7b50ed30fac396b1e2c2f19f0d7c" . "6c98ffd03d4bf70001015564e12ea6da9c3f697c") (collects #"racket" #"unit" #"lang.rkt") (collects #"drracket" #"private" #"drsig.rkt") (collects #"drracket" #"private" #"local-member-names.rkt") (collects #"racket" #"class.rkt") (collects #"framework" #"main.rkt") (collects #"racket" #"unit" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.2.1" ("152b918d87c6895a47364e60c75817b10cf91194" . "0a5ec821e10139d30e8a4ead4aa51a5bdd0bcea6") (collects #"syntax" #"parse.rkt") (collects #"racket" #"main.rkt") (collects #"srfi" #"13.rkt") (collects #"htdp" #"error.rkt") (collects #"lang" #"prim.rkt") (collects #"2htdp" #"private" #"csv" #"csv.rkt") (collects #"racket" #"lang" #"reader.rkt"))

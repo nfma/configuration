@@ -1,0 +1,1 @@
+("5.2.1" ("acfb260623cb5da4d67039cfb198f992d3affff7" . "26cfd3adea71676bde51b21848a7c384316b0ad9") (collects #"scheme" #"private" #"provider" #"lang.rkt") (collects #"racket" #"splicing.rkt") (collects #"scheme" #"private" #"provider" #"lang" #"reader.rkt"))

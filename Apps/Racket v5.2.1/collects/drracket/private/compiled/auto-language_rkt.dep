@@ -1,0 +1,1 @@
+("5.2.1" ("e94e2d4afa21efd03c9037ffb4d9a09acabfd944" . "a4c47498bd3edcf9f83e691e5312a13a93342441") (collects #"typed" #"racket" #"base.rkt") (collects #"typed" #"framework" #"framework.rkt") (collects #"typed" #"mred" #"mred.rkt") (collects #"racket" #"class.rkt") (collects #"typed" #"racket" #"base" #"lang" #"reader.rkt"))

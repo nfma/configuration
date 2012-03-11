@@ -1,0 +1,1 @@
+("5.2.1" ("17c8d3bc50ca3823f7b276d889ae6dda0a161c83" . "cb1d2c87d1e83ca343015f0d5d0e915884b5b3f6") (collects #"racket" #"base.rkt") (collects #"racket" #"file.rkt") (collects #"racket" #"path.rkt") (collects #"mzscheme" #"main.rkt"))

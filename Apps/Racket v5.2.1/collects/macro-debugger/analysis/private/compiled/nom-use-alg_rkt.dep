@@ -1,0 +1,1 @@
+("5.2.1" ("325796944e401ee565e23fe26fe740eebfae6e2b" . "dd4483d0470e168ccb4f63b52cb29bc3946ee7ed") (collects #"racket" #"base.rkt") (collects #"racket" #"match.rkt") (collects #"macro-debugger" #"analysis" #"private" #"moduledb.rkt") (collects #"macro-debugger" #"analysis" #"private" #"util.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.2.1" ("3250ba6cb0c75aa80275d9e54896080010493b1a" . "5973e1e5e0e21472c24934957f0b36e0eef57540") (collects #"scheme" #"base.rkt") (collects #"scheme" #"unit.rkt"))

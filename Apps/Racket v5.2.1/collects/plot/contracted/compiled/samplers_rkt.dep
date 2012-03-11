@@ -1,0 +1,1 @@
+("5.2.1" ("81f26cb2d24163c4382bda9aa3e7aeafc06a87e4" . "0bebc700eeef7d1cbeb2c7bedfb83aeeb3d54c75") (collects #"racket" #"base.rkt") (collects #"unstable" #"latent-contract.rkt") (collects #"plot" #"common" #"samplers.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.2.1" ("325281f53c689bc9e1f325f51744ffef998299a0" . "2fe48e845ddfc051930a9ba2302f9121c1a5e9bc") (collects #"deinprogramm" #"DMdA.rkt") (collects #"deinprogramm" #"DMdA" #"lang" #"reader.rkt"))

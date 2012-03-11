@@ -1,0 +1,1 @@
+("5.2.1" ("bf59d09342afa39094b5677a3f354e949115836c" . "49723e8ab682f9dc50e69df02920bcb370e03d85") (collects #"racket" #"base.rkt") (collects #"framework" #"private" #"decorated-editor-snip.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

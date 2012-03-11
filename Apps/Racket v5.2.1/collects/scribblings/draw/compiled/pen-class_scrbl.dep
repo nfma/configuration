@@ -1,0 +1,1 @@
+("5.2.1" ("34db171ad42f7e50cc81fe540bb5ab52b9fe8727" . "ceade97d7f85bc28abb65413d8da0aca5b47aae0") (collects #"slideshow" #"pict.rkt") (collects #"scribble" #"doclang.rkt") (collects #"scribblings" #"draw" #"common.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

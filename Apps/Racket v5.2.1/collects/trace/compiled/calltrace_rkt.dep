@@ -1,0 +1,1 @@
+("5.2.1" ("df03940bda91b85ea4f44901269577558d20db39" . "8ef8c4f55f5ff2d3596c35ff3c4b4d87b360e299") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"trace" #"calltrace-lib.rkt"))

@@ -1,0 +1,1 @@
+("5.2.1" ("3fad8ac6142d9d35eb38b90000e803f367e49344" . "e7bdf0f8e4d5baa1bf7bf0904ca439f846f82276") (collects #"racket" #"main.rkt") (collects #"web-server" #"private" #"gzip.rkt") (collects #"web-server" #"stuffers" #"stuffer.rkt") (collects #"racket" #"lang" #"reader.rkt"))

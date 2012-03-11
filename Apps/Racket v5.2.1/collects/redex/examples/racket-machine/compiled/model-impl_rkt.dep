@@ -1,0 +1,1 @@
+("5.2.1" ("311c3e2cac6ad5efe4e2d2f6be9bab68d6f29140" . "23dccbc86d360b818b31698418db1f543a832ace") (collects #"racket" #"main.rkt") (collects #"compiler" #"zo-parse.rkt") (collects #"compiler" #"zo-marshal.rkt") (collects #"redex" #"examples" #"racket-machine" #"impl-eval.rkt") (collects #"racket" #"lang" #"reader.rkt"))

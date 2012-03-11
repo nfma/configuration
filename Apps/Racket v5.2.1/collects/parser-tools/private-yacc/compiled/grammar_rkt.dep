@@ -1,0 +1,1 @@
+("5.2.1" ("df7f95334089e7ef80d248d370e82eb225425892" . "dee6b7537d8f6c1fd7193e5cd9be879d5fea56ca") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"mzlib" #"class.rkt") (collects #"mzlib" #"list.rkt") (collects #"parser-tools" #"private-yacc" #"yacc-helper.rkt") (collects #"mzlib" #"contract.rkt"))

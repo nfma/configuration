@@ -1,0 +1,1 @@
+("5.2.1" ("94b1f2cfa97e9114ce10ac231c0992fc613a4ab4" . "5426ae79d54fda615aff639fcb2c0f9242fe3eab") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"htdp" #"lkup-gui.rkt"))

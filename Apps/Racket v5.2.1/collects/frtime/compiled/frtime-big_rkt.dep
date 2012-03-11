@@ -1,0 +1,1 @@
+("5.2.1" ("2b1b5b88ee3eee42ff715027cb770c35878c18d3" . "703b71689036511ec056345c96dd23de7223a072") (collects #"scheme" #"mzscheme.rkt") (collects #"frtime" #"frtime.rkt") (collects #"frtime" #"frlibs" #"list.rkt") (collects #"frtime" #"frlibs" #"etc.rkt") (collects #"frtime" #"frlibs" #"math.rkt") (collects #"frtime" #"frlibs" #"date.rkt"))

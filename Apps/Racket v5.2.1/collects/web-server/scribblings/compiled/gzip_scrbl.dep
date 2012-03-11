@@ -1,0 +1,1 @@
+("5.2.1" ("b43dd22aec1e523ce2b9de6c5b8c4a706e399983" . "d0b116fd3be9c169d66b5d2fed59566d975b433e") (collects #"web-server" #"private" #"gzip.rkt") (collects #"file" #"gzip.rkt") (collects #"file" #"gunzip.rkt") (collects #"scribble" #"doclang.rkt") (collects #"web-server" #"scribblings" #"web-server.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

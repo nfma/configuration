@@ -1,0 +1,24 @@
+\usepackage{ccaption}
+
+\newcommand{\Legend}[1]{~
+
+                        \hrule width \hsize height .33pt
+                        \vspace{4pt}
+                        \legend{#1}}
+
+\newlength{\FigOrigskip}
+\FigOrigskip=\parskip
+
+\newenvironment{Figure}{\begin{figure}}{\end{figure}}
+
+\newenvironment{Centerfigure}{\begin{center}}{\end{center}}
+\def\Centertext#1{\begin{center}#1\end{center}}
+
+\newenvironment{Leftfigure}{\begin{flushleft}}{\end{flushleft}}
+
+\newenvironment{CenterfigureMulti}{\begin{figure*}[t!p]\centering}{\end{figure*}}
+\newenvironment{CenterfigureMultiWide}{\begin{CenterfigureMulti}}{\end{CenterfigureMulti}}
+
+\newenvironment{Herefigure}{\begin{figure}[ht!]\centering}{\end{figure}}
+
+\newenvironment{FigureInside}{\begin{list}{}{\leftmargin=0pt\topsep=0pt\parsep=\FigOrigskip\partopsep=0pt}\item}{\end{list}}

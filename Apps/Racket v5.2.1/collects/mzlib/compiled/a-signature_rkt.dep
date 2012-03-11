@@ -1,0 +1,1 @@
+("5.2.1" ("1aaecaedd32d31ee9ff3a1c287102809a1aa59b4" . "348f7b43283d93fb09ec9089c68c219be5ac2d71") (collects #"scheme" #"mzscheme.rkt") (collects #"mzlib" #"private" #"unit-compiletime.rkt") (collects #"mzlib" #"private" #"unit-syntax.rkt") (collects #"mzscheme" #"main.rkt") (collects #"mzlib" #"unit.rkt"))

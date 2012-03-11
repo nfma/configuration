@@ -1,0 +1,1 @@
+("5.2.1" ("8016f2f9967327a6b07f350954908e1b5345c2c9" . "cc25b3cd76a323309a450f15f3815c4d94e42f52") (collects #"racket" #"private" #"stx.rkt") (collects #"racket" #"private" #"qq-and-or.rkt") (collects #"racket" #"private" #"cond.rkt"))

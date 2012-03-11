@@ -1,5 +1,8 @@
 set hidden
 
+" Pathogen plug-in
+call pathogen#infect() 
+
 let mapleader = ","
 
 set history=1000
@@ -47,11 +50,11 @@ set shortmess=atI
 
 set visualbell
 
-" activate rainbow parenthesis
-let vimclojure#ParenRainbow = 1
-
 "current dir matches opened window"
 " set autochdir
+
+" activate rainbow parenthesis
+let vimclojure#ParenRainbow = 1
 
 "remember what you've done after quitting vim"
 set viminfo='20,<50,s10,h,%
@@ -83,6 +86,8 @@ set ttyfast
 set ruler
 set backspace=indent,eol,start
 set laststatus=2
+set statusline=[%02n]\ %f\ %(\[%M%R%H]%)%{fugitive#statusline()}%=\ %4l,%02c%2V\ %P%*
+
 "set relativenumber
 "set undofile
 
@@ -99,9 +104,6 @@ inoremap <F1> <ESC>
 nnoremap <F1> <ESC>
 vnoremap <F1> <ESC>
 
-" Pathogen plug-in
-call pathogen#infect() 
-
 "close map window"
 let g:CommandTCancelMap='<Esc>'
 
@@ -116,3 +118,9 @@ map <F8> :!ctags -R --langmap=Lisp:+.clj --c++-kinds=+p --fields=+iaS --extra=+q
 
 " NERDTree 
 map <F3> :NERDTree<cr>
+
+" vim slime
+let g:slime_target = "screen"
+
+" load colors 
+colo jellybeans

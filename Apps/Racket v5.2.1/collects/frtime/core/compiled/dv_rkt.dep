@@ -1,0 +1,1 @@
+("5.2.1" ("2591376f5cdc6bc7155c8ae76f429955de0aa322" . "2ccd31423fa540ae3d2d44268ffd16c9e612516a") (collects #"scheme" #"main.rkt") (collects #"frtime" #"core" #"contract.rkt") (collects #"scheme" #"lang" #"reader.rkt"))

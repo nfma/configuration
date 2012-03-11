@@ -1,0 +1,1 @@
+("5.2.1" ("0e6fbc4ac38d878225e33710d77cb88b18385088" . "fac97d08bd0ca25cb6486baf380d7822c95f270e") (collects #"htdp" #"error.rkt") (collects #"2htdp" #"image.rkt") (collects #"racket" #"main.rkt") (collects #"scribble" #"doclang.rkt") (collects #"scribble" #"manual.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

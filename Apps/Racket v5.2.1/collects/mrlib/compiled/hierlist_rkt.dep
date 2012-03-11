@@ -1,0 +1,1 @@
+("5.2.1" ("990f9a4b9fc13a7cb1aa4d3d5e3c90e5d2c33191" . "9d4fe62efffba92e71028cebe5360b124c5b1783") (collects #"scheme" #"base.rkt") (collects #"mzlib" #"unit.rkt") (collects #"scheme" #"gui" #"base.rkt") (collects #"mrlib" #"hierlist" #"hierlist-sig.rkt") (collects #"mrlib" #"hierlist" #"hierlist-unit.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.2.1" ("3a834bbc5991822515a8a2e69256516c8768394a" . "29ee0bf87b818f84fac78365d9909009f71696ef") (collects #"racket" #"main.rkt") (collects #"teachpack" #"htdp" #"graphing.rkt") (collects #"scribble" #"doclang.rkt") (collects #"scribble" #"manual.rkt") (collects #"teachpack" #"htdp" #"scribblings" #"shared.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.2.1" ("8018e946f770e7fa3f1e51d6c6f67d9a16566867" . "53fc0df3d93ed2d8e2be6f83c791afc712371cc6") (collects #"racket" #"base.rkt") (collects #"racket" #"stxparam.rkt") (collects #"racket" #"stxparam-exptime.rkt"))

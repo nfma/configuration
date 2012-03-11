@@ -1,0 +1,1 @@
+("5.2.1" ("87842084d6dc8ef6210fc137ad9ed593d005dcf7" . "c4420d78d5d17ff8ccda1f34704507d833d6f600") (collects #"racket" #"main.rkt") (collects #"racket" #"serialize.rkt") (collects #"racket" #"runtime-path.rkt") (collects #"compiler" #"zo-marshal.rkt") (collects #"racket" #"lang" #"reader.rkt"))

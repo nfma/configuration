@@ -1,0 +1,1 @@
+("5.2.1" ("ca446b205f525df9e3f2b7bde97955bff4ad805f" . "30a0c605464a96144895128345bc19e3610460b4") (collects #"mzscheme" #"main.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"srfi" #"42" #"generators.scm") (collects #"srfi" #"42" #"expansion.scm"))

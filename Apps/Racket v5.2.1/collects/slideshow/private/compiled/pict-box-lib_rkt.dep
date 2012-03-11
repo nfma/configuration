@@ -1,0 +1,1 @@
+("5.2.1" ("9ebe990b2abed51a501a796618e2b28194cbcdc3" . "4490264cc7c2a0f770a82fc3a127d072bb35f180") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"mred" #"main.rkt") (collects #"mzlib" #"class.rkt") (collects #"texpict" #"mrpict.rkt") (collects #"slideshow" #"private" #"image-snipr.rkt"))

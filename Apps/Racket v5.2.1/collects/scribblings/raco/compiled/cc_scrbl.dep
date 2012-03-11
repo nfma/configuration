@@ -1,0 +1,1 @@
+("5.2.1" ("e38b0527d093a919eb0098516ddf829a5459bdae" . "ece0504ddd6e5a06e4a95208e92868dad34026aa") (collects #"scheme" #"base.rkt") (collects #"compiler" #"xform.rkt") (collects #"dynext" #"compile.rkt") (collects #"scribble" #"doclang.rkt") (collects #"scribble" #"manual.rkt") (collects #"scribblings" #"raco" #"common.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

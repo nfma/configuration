@@ -1,0 +1,1 @@
+("5.2.1" ("b7831ea65706153465072dc72c407240719d3727" . "635d4224c892049d03af7111887cbe4590aa87fb") (collects #"racket" #"base.rkt") (collects #"macro-debugger" #"syntax-browser" #"frame.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

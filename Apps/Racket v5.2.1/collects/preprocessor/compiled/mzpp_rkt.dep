@@ -1,0 +1,1 @@
+("5.2.1" ("ef345e8473fc7b98a8e040ff39beff99032a713e" . "449b90032f05274f5c07ed2d0e96f198e4cb277c") (collects #"scheme" #"base.rkt") (collects #"preprocessor" #"pp-utils.rkt") (collects #"scheme" #"promise.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

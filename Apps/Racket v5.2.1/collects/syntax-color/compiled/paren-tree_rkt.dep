@@ -1,0 +1,1 @@
+("5.2.1" ("faf68a1a63c12cd6e2172aea6b771435bdace991" . "d2b5c1abe4f76aa8173122787fa47f539031395f") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"mzlib" #"class.rkt") (collects #"syntax-color" #"token-tree.rkt"))

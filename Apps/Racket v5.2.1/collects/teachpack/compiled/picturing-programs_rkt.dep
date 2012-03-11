@@ -1,0 +1,1 @@
+("5.2.1" ("f127ca6d80f1c1539cfa61a6a5eff2ff39b51d36" . "e211c3ece813121e04c5a720a662f7d93f055be5") (collects #"racket" #"base.rkt") (collects #"picturing-programs" #"main.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

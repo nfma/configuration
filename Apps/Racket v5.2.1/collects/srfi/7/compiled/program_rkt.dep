@@ -1,0 +1,1 @@
+("5.2.1" ("eafe61ce3c464e2539c0d5d22f10e0b87e9b6c5e" . "70ab7e9c72fef09915113121ab56bcac72eb7322") (collects #"scheme" #"mzscheme.rkt") (collects #"syntax" #"stx.rkt") (collects #"srfi" #"features.rkt") (collects #"mzscheme" #"main.rkt") (collects #"mzlib" #"include.rkt"))

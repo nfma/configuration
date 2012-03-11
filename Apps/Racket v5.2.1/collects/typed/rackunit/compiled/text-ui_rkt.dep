@@ -1,0 +1,1 @@
+("5.2.1" ("6f81f1634d2500bb25686c565d43ea06467744fa" . "fd938abceedb0bea941fbcd718963460880733fe") (collects #"typed" #"scheme.rkt") (collects #"typed" #"rackunit.rkt") (collects #"typed" #"private" #"utils.rkt") (collects #"rackunit" #"text-ui.rkt") (collects #"typed" #"scheme" #"lang" #"reader.rkt"))

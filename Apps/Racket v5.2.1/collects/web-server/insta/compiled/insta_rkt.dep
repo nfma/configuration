@@ -1,0 +1,1 @@
+("5.2.1" ("770b2d872a3bf284111c790bd9b4c734534d62e2" . "9c3a5b1405f5e695689ce905306acc8a236d9315") (collects #"racket" #"main.rkt") (collects #"syntax" #"kerncase.rkt") (collects #"web-server" #"servlet.rkt") (collects #"web-server" #"servlet-env.rkt") (collects #"racket" #"lang" #"reader.rkt"))

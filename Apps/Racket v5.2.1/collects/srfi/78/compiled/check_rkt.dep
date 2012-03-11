@@ -1,0 +1,1 @@
+("5.2.1" ("f20984729e5fde4cd6514c1cda9e7024e3ac59c4" . "e04068e3ce2a9df7426a5047c109b6f87112c605") (collects #"scheme" #"base.rkt") (collects #"mzlib" #"include.rkt") (collects #"srfi" #"23.rkt") (collects #"srfi" #"42.rkt") (collects #"mzlib" #"pretty.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt") (ext collects #"srfi" #"78" #"check-reference.scm"))

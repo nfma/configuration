@@ -1,0 +1,1 @@
+("5.2.1" ("3b8515e5522307df779d5e4cd9a0e07ff157fb6c" . "aff17a4d70d38b41dac87e9fbf0e51596d44ab3e") (collects #"scheme" #"base.rkt") (collects #"file" #"gzip.rkt") (collects #"net" #"base64.rkt") (collects #"scheme" #"system.rkt") (collects #"scheme" #"port.rkt") (collects #"scheme" #"file.rkt") (collects #"setup" #"getinfo.rkt"))

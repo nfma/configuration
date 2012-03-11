@@ -1,0 +1,1 @@
+("5.2.1" ("9eb08d73be172da80cf21c63e82c7323a119f877" . "7d1dc9f2cc3b296dc175c18cab45440fe18d4640") (collects #"racket" #"base.rkt") (collects #"compiler" #"cm-accomplice.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

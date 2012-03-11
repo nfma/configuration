@@ -1,0 +1,1 @@
+("5.2.1" ("333de3a1c25e95648150afeefdafbe122612477f" . "baa0dcb615334343366b652994fade988b8a1a9d") (collects #"racket" #"main.rkt") (collects #"compiler" #"zo-structs.rkt") (collects #"compiler" #"demodularizer" #"util.rkt") (collects #"racket" #"lang" #"reader.rkt"))

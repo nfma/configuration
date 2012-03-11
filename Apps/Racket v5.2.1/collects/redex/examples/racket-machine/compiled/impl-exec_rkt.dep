@@ -1,0 +1,1 @@
+("5.2.1" ("72db60f8679830d8ed227bcff738cda978c2c786" . "74d1ddb2a3ddfdd055ef992a74e181263af9a107") (collects #"racket" #"main.rkt") (collects #"racket" #"serialize.rkt") (collects #"redex" #"examples" #"racket-machine" #"impl-eval.rkt") (collects #"racket" #"lang" #"reader.rkt"))

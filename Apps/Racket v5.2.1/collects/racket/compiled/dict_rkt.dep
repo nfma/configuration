@@ -1,0 +1,1 @@
+("5.2.1" ("4de2fb57632cd924989fac998c163c8864263db5" . "1e0f727f94cacd2c4e82b08452ba6cc297048796") (collects #"racket" #"base.rkt") (collects #"racket" #"contract" #"base.rkt") (collects #"racket" #"private" #"dict.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

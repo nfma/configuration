@@ -1,0 +1,1 @@
+("5.2.1" ("f58408d012ee864d3bc8212124135ec3daf3b89d" . "5787aa9a7bd7ec5f60c9eeca51d5d94ca85827dc") (collects #"racket" #"base.rkt") (collects #"syntax" #"path-spec.rkt") (collects #"mzlib" #"private" #"increader.rkt") (collects #"compiler" #"cm-accomplice.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

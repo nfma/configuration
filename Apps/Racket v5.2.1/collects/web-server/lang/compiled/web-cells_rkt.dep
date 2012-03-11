@@ -1,0 +1,1 @@
+("5.2.1" ("884dfcdb42d552ba9326236bce6c776e36fcb9dd" . "b30edd6adf0499b964188357caeda280a6ab32d3") (collects #"racket" #"main.rkt") (collects #"racket" #"serialize.rkt") (collects #"web-server" #"lang" #"serial-lambda.rkt") (collects #"racket" #"lang" #"reader.rkt"))

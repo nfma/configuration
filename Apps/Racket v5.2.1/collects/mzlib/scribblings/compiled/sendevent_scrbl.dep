@@ -1,0 +1,1 @@
+("5.2.1" ("dbc3ed3549b2a1e9d95a368c7d66377d2deef597" . "16a8c88a319ef659ebdc153cb30582d875d276d3") (collects #"mzlib" #"sendevent.rkt") (collects #"scheme" #"gui" #"base.rkt") (collects #"scribble" #"doclang.rkt") (collects #"mzlib" #"scribblings" #"common.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

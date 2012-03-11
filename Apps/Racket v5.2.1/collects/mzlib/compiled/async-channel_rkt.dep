@@ -1,0 +1,1 @@
+("5.2.1" ("936cd4810fe8bec2f760f8c1b6dcfccbbb6f3373" . "3c72ebb9824acd09129278a5a9e739491ae58aba") (collects #"racket" #"base.rkt") (collects #"racket" #"async-channel.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

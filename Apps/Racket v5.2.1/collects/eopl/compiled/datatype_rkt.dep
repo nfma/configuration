@@ -1,0 +1,1 @@
+("5.2.1" ("00136e241ef871cd04de653ae8f5dc723b95ee2e" . "13a3403c4822bdc34aaba93d300df2391413fb82") (collects #"scheme" #"mzscheme.rkt") (collects #"eopl" #"private" #"utils.rkt") (collects #"mzscheme" #"main.rkt") (collects #"mzlib" #"pconvert-prop.rkt") (collects #"mzscheme" #"lang" #"reader.rkt"))

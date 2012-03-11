@@ -1,0 +1,1 @@
+("5.2.1" ("9ad5e903e2c619dc78ca22170ed417861d927084" . "84a8965f91e799485c606bc094e8524ae7314c39") (collects #"srfi" #"provider.rkt") (collects #"srfi" #"%3a48.rkt") (collects #"s-exp" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.2.1" ("3b3c25e0bfc9a696adc5eef46f23cb68dde1195a" . "bc762c8092d90d3cd4d1d6f05143ee6d216ffeb5") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"games" #"pousse" #"counter.rkt") (collects #"games" #"pousse" #"board.rkt") (collects #"games" #"pousse" #"utils.rkt") (collects #"mzlib" #"unitsig.rkt"))

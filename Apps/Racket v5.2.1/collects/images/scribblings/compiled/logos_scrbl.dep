@@ -1,0 +1,1 @@
+("5.2.1" ("945e9c9a293ba035eca71c6a8817c4154638a173" . "d300875dc83aeff944db63aa912cbc8723392498") (collects #"images" #"logos.rkt") (collects #"racket" #"main.rkt") (collects #"scribble" #"manual" #"lang.rkt") (collects #"scribble" #"eval.rkt") (collects #"unstable" #"latent-contract" #"defthing.rkt") (collects #"scribble" #"manual" #"lang" #"reader.rkt"))

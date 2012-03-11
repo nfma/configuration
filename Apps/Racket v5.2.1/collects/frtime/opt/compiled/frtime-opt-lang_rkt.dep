@@ -1,0 +1,1 @@
+("5.2.1" ("c70b8f4b05b7a64c688d0b490d40bc8c90673152" . "9713fba73dc136a24f13a87fa58a196f7c4b0cbe") (collects #"scheme" #"mzscheme.rkt") (collects #"frtime" #"opt" #"lowered-equivs.rkt") (collects #"mzscheme" #"main.rkt") (collects #"frtime" #"frtime.rkt") (collects #"frtime" #"frtime-big.rkt") (collects #"srfi" #"1.rkt"))

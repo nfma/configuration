@@ -1,0 +1,1 @@
+("5.2.1" ("b7344828d64eb9fd1c7cb1cd9edf472803d27f83" . "38c1838fdcddeebf277770023a00af4fd601e2ee") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"deinprogramm" #"DMdA-reader.rkt"))

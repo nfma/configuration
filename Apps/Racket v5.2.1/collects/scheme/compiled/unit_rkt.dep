@@ -1,0 +1,1 @@
+("5.2.1" ("1b4e5cf36b6123b9f71025e6452f9de4a3f0536b" . "3300141c3944a85578c58b3dfb59695474221212") (collects #"racket" #"base.rkt") (collects #"mzlib" #"unit.rkt"))

@@ -1,0 +1,1 @@
+("5.2.1" ("9fc8ff0022ae181bbbb4819ea798449e942b903f" . "f7e5437d847ca7523722d57ad78f478262cdb6f7") (collects #"racket" #"base.rkt") (collects #"racket" #"contract" #"base.rkt") (collects #"openssl" #"main.rkt") (collects #"db" #"base.rkt") (collects #"db" #"private" #"postgresql" #"main.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

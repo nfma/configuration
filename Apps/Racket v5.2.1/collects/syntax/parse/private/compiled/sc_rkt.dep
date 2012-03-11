@@ -1,0 +1,1 @@
+("5.2.1" ("6c6a118ecac28c4c959cb7ce0b00829ee12a21e1" . "60a0969a04a1f78e72a985bde30b9d81fe5b0bf8") (collects #"racket" #"base.rkt") (collects #"unstable" #"lazy-require.rkt") (collects #"syntax" #"parse" #"private" #"keywords.rkt") (collects #"syntax" #"parse" #"private" #"residual.rkt") (collects #"racket" #"runtime-path.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

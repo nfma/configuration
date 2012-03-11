@@ -1,0 +1,1 @@
+("5.2.1" ("3d76ac37085031bcafec1dcd0e542eed5d5989a1" . "da4164c1a9db0bbdcbb2fdb48f467aa55480dcc7") (collects #"scheme" #"base.rkt") (collects #"scheme" #"cmdline.rkt") (collects #"raco" #"command-name.rkt") (collects #"compiler" #"zo-parse.rkt") (collects #"compiler" #"decompile.rkt") (collects #"scheme" #"pretty.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

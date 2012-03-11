@@ -1,0 +1,1 @@
+("5.2.1" ("37e7b6100fa0fc9a89dc03bb7b2477c5f085646e" . "b13b6852174c74c162711f1b175134c604258e4e") (collects #"racket" #"main.rkt") (collects #"web-server" #"stuffers" #"stuffer.rkt") (collects #"racket" #"runtime-path.rkt") (collects #"openssl" #"libcrypto.rkt") (collects #"ffi" #"unsafe.rkt") (collects #"racket" #"lang" #"reader.rkt"))

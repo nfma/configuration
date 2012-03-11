@@ -1,0 +1,1 @@
+("5.2.1" ("ecc2c4a72d7e9b0a159d5d0289f40500b31cada6" . "5fe7d9164775720bf74964ff42a0806abe99fe6c") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"srfi" #"41" #"streams.rkt"))

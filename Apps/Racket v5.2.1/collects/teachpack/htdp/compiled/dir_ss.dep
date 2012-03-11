@@ -1,0 +1,1 @@
+("5.2.1" ("6b5f48a9ae53170c9eda72bff4b4f7cec64a23ab" . "371caba958c74a9d7dfea587ddaa44340c0c9a39") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"htdp" #"dir.rkt"))

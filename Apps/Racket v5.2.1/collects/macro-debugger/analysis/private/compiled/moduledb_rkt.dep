@@ -1,0 +1,1 @@
+("5.2.1" ("8509f0c17b5bce378e9d827e6c01bb1810b782d2" . "9e13401a7d72eaeb9cfbe34472816b9b55a754c7") (collects #"racket" #"base.rkt") (collects #"syntax" #"modresolve.rkt") (collects #"setup" #"path-to-relative.rkt") (collects #"racket" #"match.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

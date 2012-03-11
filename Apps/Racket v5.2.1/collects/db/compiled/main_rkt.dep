@@ -1,0 +1,1 @@
+("5.2.1" ("e78d013aec2d57ffa3878d5c22232586559d7818" . "e00ff10f9a95347cedd114fae31327d36e783ab4") (collects #"racket" #"base.rkt") (collects #"unstable" #"lazy-require.rkt") (collects #"racket" #"contract" #"base.rkt") (collects #"db" #"base.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

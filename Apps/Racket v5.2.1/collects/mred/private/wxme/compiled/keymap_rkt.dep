@@ -1,0 +1,1 @@
+("5.2.1" ("bc203a0045960fa3f660cb650e7c6e494d2c88b4" . "3161a6878c5ce27a90ac5d257084e79f75ed9c30") (collects #"scheme" #"base.rkt") (collects #"scheme" #"class.rkt") (collects #"mred" #"private" #"syntax.rkt") (collects #"mred" #"private" #"wxme" #"wx.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.2.1" ("2a766a73e9ec89e26f734a4c166d167dcfb6f874" . "64182fd04a5d36cc177eb14fae7032d7025296f8") (collects #"scheme" #"main.rkt") (collects #"lang" #"private" #"teachprims.rkt") (collects #"lang" #"private" #"teach.rkt") (collects #"scheme" #"lang" #"reader.rkt"))

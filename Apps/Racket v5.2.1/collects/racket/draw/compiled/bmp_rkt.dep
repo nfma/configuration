@@ -1,0 +1,1 @@
+("5.2.1" ("bd687dc8bb3bc9044044d7dbe1b9148d751abc18" . "36d9957d1d48072d357319f48a2c78a2daf1af87") (collects #"racket" #"base.rkt") (collects #"racket" #"port.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

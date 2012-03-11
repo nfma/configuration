@@ -1,0 +1,1 @@
+("5.2.1" ("2ccd889deb00fa0e19203c136deecc3f37afb988" . "aa6d0eba1c7f3dfdf2c42c2e964747c2c8e39dc4") (collects #"racket" #"base.rkt") (collects #"web-server" #"lang" #"abort-resume.rkt") (collects #"syntax" #"kerncase.rkt") (collects #"racket" #"contract.rkt") (collects #"web-server" #"lang" #"util.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

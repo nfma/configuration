@@ -1,0 +1,1 @@
+("5.2.1" ("d2592b1fd6014c8e8ba5b9eb5261d8f60daed124" . "4d8cafc1479bd9b00b2381087d4314d6588b2b64") (collects #"string-constants" #"private" #"string-constant-lang.rkt"))

@@ -1,0 +1,1 @@
+("5.2.1" ("311f1cf1f879a1802d216d549d222adfe5bb8c5e" . "3c6c7a9d0cf45c7c73eb55de56391486f975c658") (collects #"scheme" #"base.rkt") (collects #"syntax" #"boundmap.rkt") (collects #"scheme" #"list.rkt") (collects #"syntax" #"strip-context.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

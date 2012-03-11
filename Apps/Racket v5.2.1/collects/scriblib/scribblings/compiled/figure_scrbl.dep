@@ -1,0 +1,1 @@
+("5.2.1" ("d3ede9619009745af29c5e10fc23c4a4b3449de8" . "c45f8e4592a50c6181a79e5421a20fceb511cb22") (collects #"scribble" #"core.rkt") (collects #"scribble" #"decode.rkt") (collects #"scriblib" #"figure.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"contract.rkt") (collects #"scribble" #"manual" #"lang.rkt") (collects #"scribble" #"manual" #"lang" #"reader.rkt"))

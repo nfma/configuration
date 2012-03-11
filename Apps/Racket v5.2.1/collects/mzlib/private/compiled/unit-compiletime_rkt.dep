@@ -1,0 +1,1 @@
+("5.2.1" ("9c4df03c64d0c73a16095cc59e18edf5c1e8d242" . "cbe05b27afd0565f980df6471b9cd6c9534b7561") (collects #"racket" #"base.rkt") (collects #"mzlib" #"private" #"unit-keywords.rkt") (collects #"mzlib" #"private" #"unit-runtime.rkt") (collects #"syntax" #"boundmap.rkt") (collects #"mzlib" #"private" #"unit-syntax.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

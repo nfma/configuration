@@ -1,0 +1,1 @@
+("5.2.1" ("abffd024714ba6b172967d88b62453e3eacf5e03" . "ff85c46e187c97051d31211f739a5a6bc5a702f9") (collects #"racket" #"base.rkt") (collects #"ffi" #"unsafe.rkt") (collects #"ffi" #"unsafe" #"define.rkt") (collects #"db" #"private" #"odbc" #"ffi-constants.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.2.1" ("f75c8a1c2e24d2aeac02860832d98cf395ead42e" . "6a97f3db2c48d450ca3781130a64e9b6d679617d") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"mred" #"private" #"path-dialog.rkt"))

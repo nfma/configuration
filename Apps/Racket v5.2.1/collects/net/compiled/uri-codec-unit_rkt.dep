@@ -1,0 +1,1 @@
+("5.2.1" ("aabed8296bc69dab157f29e031f2bb0e94806d06" . "593f816ffb5bd92a29cb7b26912632ef759d37cc") (collects #"racket" #"base.rkt") (collects #"racket" #"unit.rkt") (collects #"net" #"uri-codec-sig.rkt") (collects #"net" #"uri-codec.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

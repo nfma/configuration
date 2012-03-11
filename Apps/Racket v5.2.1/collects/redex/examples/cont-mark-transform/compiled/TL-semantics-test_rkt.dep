@@ -1,0 +1,1 @@
+("5.2.1" ("d14ca1faac4ac03a6308845474e38f3acf17911c" . "f0128a2f176abe13c496821356886e6c4b51c245") (collects #"racket" #"main.rkt") (collects #"redex" #"examples" #"cont-mark-transform" #"TL-semantics.rkt") (collects #"redex" #"examples" #"cont-mark-transform" #"common.rkt") (collects #"redex" #"main.rkt") (collects #"racket" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.2.1" ("c34de8f207575cef4e21d140b7a8c078bc6e88d9" . "9edff5f4f6d44e90adf0e982078e5d57b8284aeb") (collects #"racket" #"main.rkt") (collects #"string-constants" #"main.rkt") (collects #"drracket" #"tool.rkt") (collects #"lang" #"stepper-language-interface.rkt") (collects #"racket" #"lang" #"reader.rkt"))

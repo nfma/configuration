@@ -1,0 +1,1 @@
+("5.2.1" ("218bdc8bfad28abb2a1c0ec0c1823f17851c6605" . "3247547a2ef842c5e86a6cd057772ecf2765fa3a") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"combinator-parser" #"private-combinator" #"combinator-parser.scm") (collects #"combinator-parser" #"private-combinator" #"parser-sigs.rkt"))

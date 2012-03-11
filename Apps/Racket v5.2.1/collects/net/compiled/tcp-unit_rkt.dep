@@ -1,0 +1,1 @@
+("5.2.1" ("7569dce67ebb3c1a8ab34cb425d0a316ed2f69b1" . "665f3a2559655323ebc8467bc81dac23a0eeb405") (collects #"racket" #"base.rkt") (collects #"racket" #"unit.rkt") (collects #"racket" #"tcp.rkt") (collects #"net" #"tcp-sig.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

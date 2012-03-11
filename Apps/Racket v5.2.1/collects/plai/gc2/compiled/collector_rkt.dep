@@ -1,0 +1,1 @@
+("5.2.1" ("76e0dfe8e932d56c082ddddff9769c3cbd6766c4" . "e378f935f0237163265a1487cf9b5dc4c003b72c") (collects #"scheme" #"main.rkt") (collects #"plai" #"datatype.rkt") (collects #"plai" #"test-harness.rkt") (collects #"plai" #"gc2" #"private" #"gc-core.rkt") (collects #"scheme" #"lang" #"reader.rkt"))

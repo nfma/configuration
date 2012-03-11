@@ -1,0 +1,1 @@
+("5.2.1" ("51bb39fb433f39fe92db9f37738862412eaef546" . "da9762d64bb7e8feb686f10d643c33a503bcc9aa") (collects #"racket" #"base.rkt") (collects #"racket" #"syntax.rkt") (collects #"macro-debugger" #"model" #"yacc-ext.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

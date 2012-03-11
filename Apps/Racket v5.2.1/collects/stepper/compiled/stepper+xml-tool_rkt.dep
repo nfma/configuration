@@ -1,0 +1,1 @@
+("5.2.1" ("505e6638590c5a2eb653f924cb84dbdd7f15fd91" . "a94e8b7b95e21440319ba205de62a88ffbc8b1f9") (collects #"racket" #"main.rkt") (collects #"drracket" #"tool.rkt") (collects #"stepper" #"stepper-tool.rkt") (collects #"stepper" #"xml-tool.rkt") (collects #"stepper" #"private" #"view-controller.rkt") (collects #"racket" #"lang" #"reader.rkt"))

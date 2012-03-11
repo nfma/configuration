@@ -1,0 +1,1 @@
+("5.2.1" ("2e4fee2ab134bb97462fcee62b90d0432cc2a977" . "5677c5ece1d86899443ae4dc17aace1729ecff2e") (collects #"scheme" #"base.rkt") (collects #"scheme" #"gui" #"base.rkt") (collects #"scheme" #"class.rkt") (collects #"scheme" #"list.rkt") (collects #"net" #"gifwrite.rkt") (collects #"racket" #"contract.rkt"))

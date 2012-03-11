@@ -1,0 +1,1 @@
+("5.2.1" ("2186535670b025d8608c3a8a75c3f6dfe7fa2fa1" . "1de899a25277210c49a0c24d8a7c946eef30a224") (collects #"mrlib" #"path-dialog.rkt") (collects #"scribble" #"doclang.rkt") (collects #"scribblings" #"gui" #"common.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.2.1" ("26eae25ae8ad47137b88efdfaa6bd2b6ea4f5ab2" . "eee628a844766dca8d59b9898b4d131ff7031df1") (collects #"racket" #"serialize.rkt") (collects #"web-server" #"lang" #"abort-resume.rkt") (collects #"web-server" #"lang" #"web.rkt") (collects #"scribble" #"doclang.rkt") (collects #"web-server" #"scribblings" #"web-server.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.2.1" ("23d8e59c4058d240b90cefb4d6caa49afd6453cd" . "0034eea477408f3f0ec305fa25ddca71e662c756") (collects #"scribblings" #"reference" #"ellipses-defn.rkt") (collects #"scheme" #"base.rkt") (collects #"scribble" #"manual.rkt"))

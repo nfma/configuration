@@ -1,0 +1,1 @@
+("5.2.1" ("db93c9a453726c5265ae7945aa4521b29905a506" . "c3a7c82b10b33d9ca43a8fec0e788192f7a5f0be") (collects #"scheme" #"base.rkt") (collects #"scheme" #"cmdline.rkt") (collects #"raco" #"command-name.rkt") (collects #"compiler" #"private" #"embed.rkt") (collects #"launcher" #"launcher.rkt") (collects #"dynext" #"file.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

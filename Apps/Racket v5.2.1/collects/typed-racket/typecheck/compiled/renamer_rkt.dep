@@ -1,0 +1,1 @@
+("5.2.1" ("9c330aedc4f9483fa20818d5d7a2f11e53bfbcff" . "c7616b20a45df0f974d31afaee278007399ba7f4") (collects #"racket" #"base.rkt") (collects #"typed-racket" #"private" #"typed-renaming.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

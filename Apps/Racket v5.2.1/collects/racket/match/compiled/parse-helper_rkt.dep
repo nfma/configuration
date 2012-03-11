@@ -1,0 +1,1 @@
+("5.2.1" ("b6d3cdb310d744ed376571d656a6ba0ad8860e07" . "d8be1ec91a0c1bfb50f843f1df6504749a3cc83b") (collects #"scheme" #"base.rkt") (collects #"syntax" #"boundmap.rkt") (collects #"scheme" #"struct-info.rkt") (collects #"racket" #"match" #"patterns.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.2.1" ("b819304f89b7fc574ec78ecc5eae2e55a992216f" . "e1aac83905e948173d5853f69e34fb194733fe61") (collects #"mzlib" #"thread.rkt") (collects #"scheme" #"contract.rkt") (collects #"scheme" #"tcp.rkt") (collects #"scribble" #"doclang.rkt") (collects #"mzlib" #"scribblings" #"common.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

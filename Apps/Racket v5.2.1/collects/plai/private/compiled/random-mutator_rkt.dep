@@ -1,0 +1,1 @@
+("5.2.1" ("22f3eea630be804a5638f8811ed3a71e5a3244a3" . "a57ab51173837d6536ebe168f942aa6bd3ad5b6a") (collects #"scheme" #"base.rkt") (collects #"scheme" #"pretty.rkt") (collects #"scheme" #"match.rkt") (collects #"scheme" #"contract.rkt") (collects #"plai" #"private" #"gc-core.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

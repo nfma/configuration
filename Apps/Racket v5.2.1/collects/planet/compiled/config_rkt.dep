@@ -1,0 +1,1 @@
+("5.2.1" ("929e031045abb85e19e1e8da11a6977fde6c72e8" . "d3e59fc0abb9a7c8c8032dbdff1cb1548c7cdc8c") (collects #"racket" #"base.rkt") (collects #"planet" #"private" #"define-config.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

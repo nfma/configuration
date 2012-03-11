@@ -1,0 +1,1 @@
+("5.2.1" ("e848b22010971b41cc508efc69e3cd450fe6de4e" . "55bac02a7f5abe4f9ea4717fa2d01a888ae837c8") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"games" #"pousse" #"board-size.rkt"))

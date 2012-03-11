@@ -1,0 +1,1 @@
+("5.2.1" ("e3321da32d450d021eedf4cff408754c61b9ddeb" . "933865ef90bc00bb5423fc70cd62a4ad9d482af0") (collects #"scheme" #"base.rkt") (collects #"help" #"search.rkt") (collects #"scheme" #"cmdline.rkt") (collects #"scheme" #"list.rkt") (collects #"scheme" #"string.rkt") (collects #"raco" #"command-name.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.2.1" ("3e74caf09c46a23ec6598a0f2d1e509a57b2b3df" . "4971b944c5a6cf0395857bf617d621dd1057c200") (collects #"racket" #"base.rkt") (collects #"unstable" #"lazy-require.rkt") (collects #"syntax" #"parse" #"private" #"minimatch.rkt") (collects #"racket" #"file.rkt") (collects #"racket" #"list.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

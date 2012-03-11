@@ -1,0 +1,1 @@
+("5.2.1" ("1321b57c8e0d2454609f33398238b618c01759d9" . "5019b196d7ea06946be7059bf48a8673bd015b7f") (collects #"net" #"dns.rkt") (collects #"net" #"dns-unit.rkt") (collects #"net" #"dns-sig.rkt") (collects #"scribble" #"doclang.rkt") (collects #"net" #"scribblings" #"common.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

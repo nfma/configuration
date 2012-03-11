@@ -1,0 +1,1 @@
+("5.2.1" ("5e3fddce4fa260bb36944a8b00f62378ba9259c8" . "f20d69c6746fea7d91b03166f301808be40f2a55") (collects #"scheme" #"base.rkt") (collects #"openssl" #"mzssl.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

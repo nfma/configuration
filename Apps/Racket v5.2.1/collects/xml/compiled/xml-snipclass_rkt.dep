@@ -1,0 +1,1 @@
+("5.2.1" ("a4ed32894cdc2504da541d71ab47b9c32b6c4055" . "f2ccb5f4163294b6c787c13d566e581cccb43625") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"stepper" #"private" #"xml-snip-helpers.rkt") (collects #"mzlib" #"class.rkt") (collects #"mred" #"main.rkt"))

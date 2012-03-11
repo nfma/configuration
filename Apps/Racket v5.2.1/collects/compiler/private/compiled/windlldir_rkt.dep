@@ -1,0 +1,1 @@
+("5.2.1" ("e7391c7510459a67a304674c85ef33acdbac43df" . "ee52fe7a579a6d38fd119c4466a809a7882baf7a") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"mzlib" #"port.rkt") (collects #"compiler" #"private" #"winutf16.rkt"))

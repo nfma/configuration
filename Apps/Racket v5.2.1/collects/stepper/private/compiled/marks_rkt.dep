@@ -1,0 +1,1 @@
+("5.2.1" ("6c38024f859b9759a5ea269a459e3f4ce79c117c" . "e57cef2e6544c4dd9c191aa3bec6d12f249b818f") (collects #"scheme" #"base.rkt") (collects #"mzlib" #"list.rkt") (collects #"mzlib" #"contract.rkt") (collects #"stepper" #"private" #"my-macros.rkt") (collects #"stepper" #"private" #"shared.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

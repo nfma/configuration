@@ -1,0 +1,1 @@
+("5.2.1" ("28b918257bcd93c65672d43c483f6a8a5172486f" . "eabd9791126e1cb85bdd185c558c4673a425fa33") (collects #"setup" #"infotab.rkt") (collects #"setup" #"infotab" #"lang" #"reader.rkt"))

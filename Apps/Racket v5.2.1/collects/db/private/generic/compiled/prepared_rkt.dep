@@ -1,0 +1,1 @@
+("5.2.1" ("250047de16129b6c48aacc5c03c024ed246d261a" . "9c87172a0c69bb57bf687d87b2e7e9399dec0c11") (collects #"racket" #"base.rkt") (collects #"racket" #"class.rkt") (collects #"db" #"private" #"generic" #"interfaces.rkt") (collects #"db" #"private" #"generic" #"sql-data.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

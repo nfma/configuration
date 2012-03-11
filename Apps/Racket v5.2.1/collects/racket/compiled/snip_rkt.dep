@@ -1,0 +1,1 @@
+("5.2.1" ("4508ab8222273561205a4bf19cdc03c1d1652c9f" . "1681e20b890d06c11b9842de94a000dbe35bcf3b") (collects #"racket" #"base.rkt") (collects #"racket" #"snip" #"private" #"snip.rkt") (collects #"racket" #"snip" #"private" #"snip-admin.rkt") (collects #"racket" #"snip" #"private" #"style.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

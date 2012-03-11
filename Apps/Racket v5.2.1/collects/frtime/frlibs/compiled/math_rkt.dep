@@ -1,0 +1,1 @@
+("5.2.1" ("ce96315b0c517fca0de3335bb853e60a54666132" . "ea66a440554c590904c03df0221830c38834c435") (collects #"scheme" #"mzscheme.rkt") (collects #"frtime" #"frtime-lang-only.rkt"))

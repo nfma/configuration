@@ -1,0 +1,1 @@
+("5.2.1" ("b103590e0a073b20ac89fc0a33810b29e21b03bf" . "e841616eecc3bec04161b5b72d1a0119de6bec3c") (collects #"scheme" #"mzscheme.rkt") (collects #"syntax" #"stx.rkt") (collects #"syntax" #"boundmap.rkt") (collects #"mzscheme" #"main.rkt") (collects #"mzlib" #"class.rkt"))

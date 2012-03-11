@@ -1,0 +1,1 @@
+("5.2.1" ("da552cfacfa4dfd3e5901827c077de4db4b72d69" . "187b79e58545cdfd21483cc88c93cc02860eade3") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"deinprogramm" #"line3d.rkt"))

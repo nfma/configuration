@@ -1,0 +1,1 @@
+("5.2.1" ("fb7a960e04b95821a3a256068efd3822f4a5646f" . "0ccae3b67f170c0d9692bc22aff590785ae72a57") (collects #"net" #"mime.rkt") (collects #"net" #"mime-unit.rkt") (collects #"net" #"mime-sig.rkt") (collects #"scribble" #"doclang.rkt") (collects #"net" #"scribblings" #"common.rkt") (collects #"scribble" #"struct.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

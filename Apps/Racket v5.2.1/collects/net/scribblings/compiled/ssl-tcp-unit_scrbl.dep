@@ -1,0 +1,1 @@
+("5.2.1" ("7ade21098bbccb4c87ed8dae593e31b5d166d143" . "53c2b414fbc34576c4714852ca1b9188c5a87ed3") (collects #"net" #"ssl-tcp-unit.rkt") (collects #"net" #"tcp-sig.rkt") (collects #"scribble" #"doclang.rkt") (collects #"net" #"scribblings" #"common.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

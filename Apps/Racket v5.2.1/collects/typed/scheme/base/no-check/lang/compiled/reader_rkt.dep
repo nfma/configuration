@@ -1,0 +1,1 @@
+("5.2.1" ("729512d2c9a3119dabffffd71a930f6670e5aba0" . "4c8a1bda33641e9f720f3c128f2b484ac02c791b") (collects #"syntax" #"module-reader.rkt") (collects #"typed-racket" #"typed-reader.rkt") (collects #"s-exp" #"lang" #"reader.rkt"))

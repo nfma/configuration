@@ -1,0 +1,1 @@
+("5.2.1" ("c4718ff59262553ae3a8e7a0bb9365b9ea6312cc" . "73f6ce9710e5050ae206c16d9f27dd778f285e86") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"srfi" #"32" #"vector-util.scm"))

@@ -1,0 +1,1 @@
+("5.2.1" ("e528f901230874ac5e605da6c8961fa50d85cf01" . "c4bcf211d1bf523eac43e95d02532280e5210e8a") (collects #"racket" #"base.rkt") (collects #"syntax" #"kerncase.rkt") (collects #"syntax" #"boundmap.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

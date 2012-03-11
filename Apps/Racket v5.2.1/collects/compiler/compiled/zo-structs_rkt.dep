@@ -1,0 +1,1 @@
+("5.2.1" ("5305861085e0e66519a410384a3a7c1e9e47cb9b" . "56c3f77b673b611ad9d461ace5de0a92633ab6d4") (collects #"scheme" #"base.rkt") (collects #"mzlib" #"etc.rkt") (collects #"scheme" #"match.rkt") (collects #"scheme" #"contract.rkt") (collects #"scheme" #"list.rkt") (collects #"racket" #"set.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

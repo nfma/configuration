@@ -1,0 +1,1 @@
+("5.2.1" ("96a0fe79f9f0a8d05bfeefb6f1d910a25f040b04" . "e3110c2324f154dcbcc9ef79a1a398405d9db43a") (collects #"scheme" #"mzscheme.rkt") (collects #"games" #"doors" #"private" #"utils.rkt") (collects #"mzscheme" #"main.rkt") (collects #"mzlib" #"class.rkt"))

@@ -1,0 +1,1 @@
+("5.2.1" ("7283bf64377d349d38764c2e8922a4d0fa382b09" . "16c3c9b638792676ab99de106e0e7f6baf33a1e0") (collects #"scheme" #"base.rkt") (collects #"mzlib" #"file.rkt") (collects #"scheme" #"contract.rkt") (collects #"mzlib" #"process.rkt") (collects #"mzlib" #"sendevent.rkt") (collects #"scheme" #"runtime-path.rkt") (collects #"slatex" #"private" #"slatex.rkt"))

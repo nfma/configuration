@@ -1,0 +1,1 @@
+("5.2.1" ("1bec83c44b1647d1f751733f533eec318cc64550" . "fae026c3283392a85f0aeb2e487b65d1414ecd7e") (collects #"racket" #"base.rkt") (collects #"racket" #"class.rkt") (collects #"racket" #"draw.rkt") (collects #"mred" #"private" #"wx" #"common" #"queue.rkt") (collects #"mred" #"private" #"wx" #"common" #"backing-dc.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

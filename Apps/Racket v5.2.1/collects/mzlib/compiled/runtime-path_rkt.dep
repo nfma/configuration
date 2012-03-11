@@ -1,0 +1,1 @@
+("5.2.1" ("aeec9f5c3fd6047408b2dc0ae1d995744d71e284" . "c7f229058766cf656f330baadcea55014cce1f39") (collects #"racket" #"base.rkt") (collects #"mzlib" #"etc.rkt") (collects #"setup" #"dirs.rkt") (collects #"racket" #"list.rkt") (collects #"mzlib" #"private" #"runtime-path-table.rkt"))

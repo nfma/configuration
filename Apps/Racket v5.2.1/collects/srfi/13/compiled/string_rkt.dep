@@ -1,0 +1,1 @@
+("5.2.1" ("7f1c8b6dda8a9beb1aa16a4631be95b26e3a00cb" . "fb78a5a8af4ee58b5cc974654bccef857df5966e") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"srfi" #"optional.rkt") (collects #"srfi" #"8" #"receive.rkt") (collects #"srfi" #"14" #"char-set.rkt") (collects #"mzlib" #"etc.rkt") (collects #"mzscheme" #"lang" #"reader.rkt"))

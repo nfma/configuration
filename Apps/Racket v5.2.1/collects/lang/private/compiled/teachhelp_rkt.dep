@@ -1,0 +1,1 @@
+("5.2.1" ("4d9e9a9a99d9d924213f6528da4d0951e1947d67" . "a688b3669c0f7c2598d71e10c9674d6477c6874f") (collects #"scheme" #"mzscheme.rkt") (collects #"stepper" #"private" #"shared.rkt") (collects #"mzscheme" #"main.rkt") (collects #"lang" #"private" #"firstorder.rkt") (collects #"lang" #"private" #"rewrite-error-message.rkt"))

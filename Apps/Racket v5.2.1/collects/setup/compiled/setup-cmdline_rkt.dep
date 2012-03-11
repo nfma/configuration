@@ -1,0 +1,1 @@
+("5.2.1" ("f0be687b15cc010c7dbc711e0a125c84ff93d485" . "dde0442a35e4e5479c174a242349637f28fb30e0") (collects #"racket" #"base.rkt") (collects #"racket" #"cmdline.rkt") (collects #"raco" #"command-name.rkt") (collects #"setup" #"private" #"command-name.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

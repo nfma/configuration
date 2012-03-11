@@ -1,0 +1,1 @@
+("5.2.1" ("8c180a93b827c3fec980940b112bdd11d9b455ac" . "9ec7fc09d7bc45521c0cc7967bb30a83191f9f60") (collects #"mzlib" #"pconvert.rkt") (collects #"mzlib" #"pconvert-prop.rkt") (collects #"scribble" #"doclang.rkt") (collects #"mzlib" #"scribblings" #"common.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

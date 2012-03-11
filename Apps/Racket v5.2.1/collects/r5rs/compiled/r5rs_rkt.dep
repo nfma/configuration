@@ -1,0 +1,1 @@
+("5.2.1" ("dd8e86e3c8d9f0097c42f7e2a3d8b9a73be8f3a4" . "29ff6458935f6ecfcd8ba4db3bc0581d75528af7") (collects #"r5rs" #"main.rkt") (collects #"scheme" #"base.rkt"))

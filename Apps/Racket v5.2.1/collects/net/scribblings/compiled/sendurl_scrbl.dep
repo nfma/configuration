@@ -1,0 +1,1 @@
+("5.2.1" ("fb1d21884ef2f2d86fa85a85d5d20e508ef41f47" . "fdc0fca1b0096a304ea2e57f3d1b1d1dc8998794") (collects #"net" #"sendurl.rkt") (collects #"racket" #"file.rkt") (collects #"scribble" #"doclang.rkt") (collects #"net" #"scribblings" #"common.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

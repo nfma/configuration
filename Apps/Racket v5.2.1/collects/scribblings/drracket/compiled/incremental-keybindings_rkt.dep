@@ -1,0 +1,1 @@
+("5.2.1" ("b9cddc61cee13abe3cf1cb04e6aadd35da4205bc" . "a5e21551bcb4af030b6bcb0471209cae419772f8") (collects #"framework" #"keybinding-lang.rkt") (collects #"drracket" #"tool-lib.rkt") (collects #"s-exp" #"lang" #"reader.rkt"))

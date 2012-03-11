@@ -1,0 +1,1 @@
+("5.2.1" ("9eb20465ace85c1282f8497cac7ac492257cbd9e" . "e3642cf9ddbcaf8dbc38555ae53c21e38008a425") (collects #"racket" #"base.rkt") (collects #"mzlib" #"match.rkt") (collects #"planet" #"private" #"short-syntax-helpers.rkt") (collects #"planet" #"private" #"data.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

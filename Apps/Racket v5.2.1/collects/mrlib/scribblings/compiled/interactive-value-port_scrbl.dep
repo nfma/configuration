@@ -1,0 +1,1 @@
+("5.2.1" ("1eb991937e1608cd4cc6bb73923a48734c7a2f1a" . "99bb79c875b6c51ae1a4109f4017c3c5eb0c17f3") (collects #"mrlib" #"interactive-value-port.rkt") (collects #"scheme" #"pretty.rkt") (collects #"scribble" #"doclang.rkt") (collects #"mrlib" #"scribblings" #"common.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

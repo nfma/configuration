@@ -1,0 +1,1 @@
+("5.2.1" ("ebf201513145dcf8381d349822067f9a773dff96" . "c7c904a1cb56d6a6c6fc91887ba880b9e3238c50") (collects #"racket" #"base.rkt") (collects #"ffi" #"unsafe.rkt") (collects #"mred" #"private" #"wx" #"win32" #"types.rkt") (collects #"mred" #"private" #"wx" #"win32" #"utils.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

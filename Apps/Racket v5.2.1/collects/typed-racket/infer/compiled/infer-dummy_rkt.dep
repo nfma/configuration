@@ -1,0 +1,1 @@
+("5.2.1" ("0d72facbf9f3554cdc068a0c04171066565ce5d0" . "d5bb59a272edba1b4d9c6cc282679beef8bdc38c") (collects #"scheme" #"base.rkt") (collects #"typed-racket" #"utils" #"utils.rkt") (collects #"typed-racket" #"rep" #"type-rep.rkt") (collects #"typed-racket" #"utils" #"tc-utils.rkt") (collects #"mzlib" #"trace.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

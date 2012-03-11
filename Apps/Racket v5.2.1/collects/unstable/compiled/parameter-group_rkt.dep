@@ -1,0 +1,1 @@
+("5.2.1" ("e4c46fee41283cb605659880cd0ce03e80c6a81c" . "a409d925fe3b67870695a70a45214ec29ddf1fa8") (collects #"racket" #"base.rkt") (collects #"racket" #"syntax.rkt") (collects #"syntax" #"parse.rkt") (collects #"racket" #"match.rkt") (collects #"racket" #"list.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

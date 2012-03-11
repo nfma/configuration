@@ -1,0 +1,1 @@
+("5.2.1" ("096f29ce8c693db57e8bac855d616dbf8b7629bc" . "eefa63c9c9170c553255cad6a38bd7c26fe73930") (collects #"embedded-gui" #"main.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"contract.rkt") (collects #"scheme" #"class.rkt") (collects #"scheme" #"gui" #"base.rkt") (collects #"scribble" #"manual.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

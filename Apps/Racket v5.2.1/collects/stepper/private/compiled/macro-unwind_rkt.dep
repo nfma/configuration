@@ -1,0 +1,1 @@
+("5.2.1" ("ca2c9d12a39943dea3292a4eea14815121fd1cee" . "1e2299b53b9d01deaa6b77cb37153b54dc267bcc") (collects #"racket" #"main.rkt") (collects #"syntax" #"kerncase.rkt") (collects #"stepper" #"private" #"model-settings.rkt") (collects #"stepper" #"private" #"shared.rkt") (collects #"racket" #"lang" #"reader.rkt"))

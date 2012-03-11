@@ -1,0 +1,1 @@
+("5.2.1" ("cac0e1f57c0803c1ff7a3aa99c13eaf52ee21a5f" . "b2eb545e849294f4b613cc86c8a76cfa1dacf8e7") (collects #"syntax" #"id-table.rkt") (collects #"racket" #"dict.rkt") (collects #"scribble" #"doclang.rkt") (collects #"syntax" #"scribblings" #"common.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

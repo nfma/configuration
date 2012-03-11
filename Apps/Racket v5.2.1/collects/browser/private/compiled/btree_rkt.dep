@@ -1,0 +1,1 @@
+("5.2.1" ("f0c24cafe405ddd01c07afaa830b4f9cf1c63bb9" . "f7d807c6fc00942351c05bbe2675aeaca2fc1906") (collects #"racket" #"unit" #"lang.rkt") (collects #"browser" #"private" #"sig.rkt") (collects #"scheme" #"unit" #"lang" #"reader.rkt"))

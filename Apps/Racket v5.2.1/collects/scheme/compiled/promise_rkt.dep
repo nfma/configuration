@@ -1,0 +1,1 @@
+("5.2.1" ("a2b7a32167bef6db62d21df6ae6364a914e4c030" . "7559455baad8920f88a0d4283d9bc3ec0d19f18f") (collects #"scheme" #"private" #"provider" #"lang.rkt") (collects #"racket" #"promise.rkt") (collects #"scheme" #"private" #"provider" #"lang" #"reader.rkt"))

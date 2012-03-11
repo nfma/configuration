@@ -1,0 +1,1 @@
+("5.2.1" ("dc075278cd1fbbf083b9ca1df2d1900435aa4722" . "c2d3df2b67e24e7e0a920da7139b931ecb248698") (collects #"mrlib" #"graph.rkt") (collects #"scheme" #"base.rkt") (collects #"mrlib" #"scribblings" #"common.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

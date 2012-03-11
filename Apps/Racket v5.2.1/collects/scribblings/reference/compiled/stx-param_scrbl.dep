@@ -1,0 +1,1 @@
+("5.2.1" ("a1344965ffcffae87990d1ff1e9c230851ff7bee" . "f82884ff5b2f44b234ee9c6c47fed1b782b9b321") (collects #"racket" #"stxparam.rkt") (collects #"racket" #"stxparam-exptime.rkt") (collects #"racket" #"splicing.rkt") (collects #"scribble" #"doclang.rkt") (collects #"scribblings" #"reference" #"mz.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

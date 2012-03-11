@@ -1,0 +1,1 @@
+("5.2.1" ("a0c217fc294cdd7b9a147ca163173f5ecfcb1656" . "8f066d35e9134faaaa455a5efd120521bb6fe50b") (collects #"racket" #"flonum.rkt") (collects #"scribble" #"doclang.rkt") (collects #"scribblings" #"reference" #"mz.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

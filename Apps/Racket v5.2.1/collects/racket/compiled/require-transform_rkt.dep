@@ -1,0 +1,1 @@
+("5.2.1" ("dfaa72c6b74254faf6d3f6400c5bc8f97e925c12" . "52be90eb73d25705efac388831a8c71423b269be") (collects #"racket" #"private" #"stxcase-scheme.rkt") (collects #"racket" #"private" #"stx.rkt") (collects #"racket" #"private" #"define-struct.rkt") (collects #"racket" #"private" #"small-scheme.rkt") (collects #"racket" #"private" #"define.rkt"))

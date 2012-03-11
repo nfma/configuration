@@ -1,0 +1,1 @@
+("5.2.1" ("2bc3a77a658b387295a573931efb7ebf0a01e765" . "2e976cc5620be799810db0bfe66ab912cbc36827") (collects #"racket" #"base.rkt") (collects #"lang" #"private" #"rewrite-error-message.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

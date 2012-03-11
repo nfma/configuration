@@ -1,0 +1,1 @@
+("5.2.1" ("1ab753fd74e5bd6fadb2cc1208d63703f228e0cc" . "d658d30b7d946b6311f5cc7a225a88fd855ef216") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"mpair.rkt") (collects #"mzlib" #"pconvert-prop.rkt") (collects #"mzlib" #"class.rkt"))

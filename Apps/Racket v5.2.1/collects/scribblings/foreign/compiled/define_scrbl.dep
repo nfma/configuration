@@ -1,0 +1,1 @@
+("5.2.1" ("e928e83bb54e06249bbd926fb55fa7fbfc2ccd55" . "ca40d432ce7276fd46613adeea85b9b839599099") (collects #"ffi" #"unsafe" #"define.rkt") (collects #"ffi" #"unsafe" #"alloc.rkt") (collects #"scribble" #"doclang.rkt") (collects #"scribblings" #"foreign" #"utils.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.2.1" ("b1e865f765dcde42a91dd2e329bd2f3d0e17d0de" . "cd62530b46fe86e7726c282fa20f038770c10354") (collects #"scheme" #"base.rkt") (collects #"slideshow" #"base.rkt") (collects #"slideshow" #"pict.rkt") (collects #"scheme" #"list.rkt") (collects #"scheme" #"math.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

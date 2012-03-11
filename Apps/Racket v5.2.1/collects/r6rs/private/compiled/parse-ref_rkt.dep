@@ -1,0 +1,1 @@
+("5.2.1" ("8b2ba747078296407db21cfe10888072f9e2c8d9" . "c073b1f8a504096c0fce424993331c5a36e5d2bf") (collects #"scheme" #"base.rkt") (collects #"r6rs" #"private" #"find-version.rkt") (collects #"r6rs" #"private" #"encode-name.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

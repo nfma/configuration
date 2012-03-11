@@ -1,0 +1,1 @@
+("5.2.1" ("40d5cc07900030042779d0766e6147f5fc8a3372" . "3555cd9dce7d8fc8183989ed71d9cb652faaa99f") (collects #"scheme" #"base.rkt") (collects #"compiler" #"zo-parse.rkt") (collects #"syntax" #"modcollapse.rkt") (collects #"scheme" #"port.rkt") (collects #"scheme" #"match.rkt") (collects #"racket" #"set.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

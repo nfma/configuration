@@ -1,0 +1,1 @@
+("5.2.1" ("284137fc1438f1c26cbf0a5c21bc84570f952116" . "af8caf6a7f5af338a793026cd85d065ed7057390") (collects #"2htdp" #"private" #"planetcute-image-list.rkt") (collects #"racket" #"base.rkt") (collects #"2htdp" #"image.rkt") (collects #"racket" #"runtime-path.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

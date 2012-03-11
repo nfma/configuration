@@ -1,0 +1,1 @@
+("5.2.1" ("4dd90a70593120ba9aee1580a55e505ed8966c90" . "96c6d1c44b80b1a8796aa8adf8f6f9d7c2ad4ba9") (collects #"ffi" #"winapi.rkt") (collects #"scribble" #"doclang.rkt") (collects #"scribblings" #"foreign" #"utils.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

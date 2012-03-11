@@ -1,0 +1,1 @@
+("5.2.1" ("2eddf5ec83393b88ae10cc71b714a25b310498f0" . "0140d7fc33be191a58e4344a2830ee2fe8dc3124") (collects #"racket" #"base.rkt") (collects #"stepper" #"private" #"shared.rkt") (collects #"lazy" #"force.rkt") (collects #"racket" #"list.rkt") (collects #"racket" #"bool.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))
